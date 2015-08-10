@@ -1,0 +1,2 @@
+# Locuscraft
+Locuscraft is the next stage of the Internet's evolution. Locuscraft is a means for all internet users in the world to sort, rate, and review all pages of the internet itself. It is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a sort of central, customized, user internet profile. Think Wikipedia meets Facebook meets Amazon. The best part of all, is this should be, and will be free for everyone in the world.

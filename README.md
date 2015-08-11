@@ -8,36 +8,49 @@ Currently I am creating Locuscraft using Django 1.9. I have already reserved the
 # Site Planning Questionnaire
 
 Who is the target audience?
+
 The general public
 
 How can I tailor the web site to reach that audience?
+
 Make the website as instrumental, intuitive, and user friendly as possible so that anyone with any background or experience may use the website.
 
 What are the goals for the site?
+
 1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through categorization, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also be able to search by keyword of course.
+
 2. To cater towards each user's interests and goals as much as possible, by providing them with an extensively customizable profile. This will allow users to better manage their time and utility while on the internet, as well as provide an entertaining, useful, go-to internet home. Whether the user's goal is to do research, to be entertained, to socialize, etc., Locuscraft should cater to and help the user accomplish this. Ways of accomplishing this will be discussed below.
+
 3. To utilize user data for the good. Privacy is incredibly important, especially for a website that learns so much about it's users. This is why the software must be open source and viewable by anyone. Once privacy is accomplished and ensured, user data can be collected either anonymously or at user discretion, then publicized, used for research, or other purposes. For example, there will be many tasks related to the user's opinion of something. This information will be collected and shared so users can see the general consensus about a topic, company, product, etc. This could be a revolution in gauging public opinion.
+
 4. To build a large and dedicated user base. None of the other goals are possible without the help of many, many users. In order to make the website more engaging and make users come back, we must give users great utility, and use some psychology. Users will be able to subscribe to interests (basically any category) and create goals. User's will earn points by completing tasks related to their interests and goals. More details below.
 
 How will the information be gathered?
+
 All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization (tongue twister there). Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, uploads, and maybe other sources. Tasks and points for those tasks will be the main driving force for gathering this information. User's will acquire tasks from interests or tasks feeds they've subscribed to. They will see all of their tasks in a task feed on their home page. A task could be a question about something, it could be to confirm that something is true, to watch a video, to click a link, to complete something, help someone, create something, or anything else the users can come up with. Once the task is complete they will acquire locus points if the task helped them, community points if it helped everyone else, or both if it helped both.
 
-What are my sources for multimedia content?’
+What are my sources for multimedia content?
+
 Right now, I am creating all the multimedia content myself, or creating different images using free stock images from the internet and modifying them. I have done this with the logo and background images on the front page.
 
 What is my budget?
+
 My own pocket for the time being. I am open to donations and would like to expand if I acquire enough.
 
 How long do I have to complete the project?
+
 I will work on this as long as it takes, but I would like to get it going ASAP. Currently, working by myself, it could be a year before I have a basic usable user interface for the website. I am still learning how to use Django. The more people we get working on this, the sooner it will revolutionize the internet.
 
 Who is on my project team?
+
 No one yet. I would love to hear from anyone who has experience programming and wants to help. Also if you have constructive criticism or a suggestion for the project, I would like to hear it.
 
 How often should the site be updated?
+
 Probably daily but that is down the road.
 
 Who is responsible for updating the site?
+
 Just me for the time being.
 
 

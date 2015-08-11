@@ -1,9 +1,9 @@
 # What is Locuscraft?
-Locuscraft is a means for all internet users in the world to sort, rate, and review all pages of the internet itself. It is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a sort of central, customized, user internet profile. Think Wikipedia meets Facebook meets Reddit. The best part of all, is this should be, and will be free for everyone in the world.
+Locuscraft is a means for all internet users in the world to sort, rate, and review websites and information on the internet. It is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. Think Wikipedia meets Facebook meets Reddit. The best part of all is this will be free for everyone in the world.
 
-Locuscraft's motto is "Learn. Built. Share." Why? Because this is this proper direction information and creation should take. Locuscraft hopes to encompass all of these as a means to revolutionize the internet.
+Locuscraft's motto is "Learn. Built. Share." Why? Because this should be the order of creation. Locuscraft hopes to encompass all of these as a means to revolutionize the internet.
 
-Currently I am creating Locuscraft using Django v1.9. I have already reserved the domain space locuscraft.com, .net, and .org. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I will to upgrade the server to a dedicated server so we can handle a higher load of traffic.
+Currently I am creating Locuscraft using Django 1.9. I have already reserved the domain space locuscraft.com, .net, and .org. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I will to upgrade the server to a dedicated server so we can handle a higher load of traffic.
 
 # Site Planning Questionnaire
 
@@ -11,27 +11,25 @@ Who is the target audience?
 The general public
 
 How can I tailor the web site to reach that audience?
-Make the website as user friendly, useful, and intuitive as possible so that anyone with any background or experience may use the website.
+Make the website as instrumental, intuitive, and user friendly as possible so that anyone with any background or experience may use the website.
 
 What are the goals for the site?
-To create a general base or hub of information catered towards each individual’s own life. It will be a place to basically organize one’s thoughts in order to work on oneself, and therefore must be greatly customizable.
-Users will be creating a sort of profile that includes tasks they need to work on, their favorite things, their opinions/beliefs, and general interests. This site will ask questions and set goals for the user in order to encourage them to work on themselves and their goals. In order to encourage this further and to get them addicted in a way, a point system will reward them for completing tasks, answering questions, and adding to their profile. 
-To put user information to even greater use, the website will collect every user’s data anonymously and organize it in various ways. One such way will be to collect user’s most common opinions or data and display it to all users as a sort of public opinion poll. In a way this website will always be doing a massive survey that can be used to gauge public opinions, trends, and beliefs.
-Users will have the option of sharing their information publicly, rather than anonymously, and entering a leaderboard that displays which users have collected the most points in various categories. Other users will be able to look at the profiles of users set to publicly share their information similar to Facebook’s privacy settings.
+1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through categorization, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also be able to search by keyword of course.
+2. To cater towards each user's interests and goals as much as possible, by providing them with an extensively customizable profile. This will allow users to better manage their time and utility while on the internet, as well as provide an entertaining, useful, go-to internet home. Whether the user's goal is to do research, to be entertained, to socialize, etc., Locuscraft should cater to and help the user accomplish this. Ways of accomplishing this will be discussed below.
+3. To utilize user data for the good. Privacy is incredibly important, especially for a website that learns so much about it's users. This is why the software must be open source and viewable by anyone. Once privacy is accomplished and ensured, user data can be collected either anonymously or at user discretion, then publicized, used for research, or other purposes. For example, there will be many tasks related to the user's opinion of something. This information will be collected and shared so users can see the general consensus about a topic, company, product, etc. This could be a revolution in gauging public opinion.
+4. To build a large and dedicated user base. None of the other goals are possible without the help of many, many users. In order to make the website more engaging and make users come back, we must give users great utility, and use some psychology. Users will be able to subscribe to interests (basically any category) and create goals. User's will earn points by completing tasks related to their interests and goals. More details below.
 
-How will I gather the information?
-Most information will be gathered from user profiles, which will be very open to customization in that any link, picture, or text will be acceptable and this data will be organized by the user by being linked to a task or question and organized in some way such as into a list or with a category tag. More customization options will come later.
-Some information will come from users, but not directly from their profiles. Similar to Reddit, users will be able to create categories of information (like subreddits) and organize and add to the world’s data the way they see fit. Users can add to categories that they choose by subscribing to them. Once subscribed, questions and tasks pertaining to these categories will show up on their task page.
-To make use of the plethora of information already available on the internet, I think it will be important to partner with other websites and organizations to make their resources available to Locuscraft users. For example Khan Academy could be one such website that could help users complete tasks relating to subjects on their website.
+How will the information be gathered?
+All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization (tongue twister there). Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, uploads, and maybe other sources. Tasks and points for those tasks will be the main driving force for gathering this information. User's will acquire tasks from interests or tasks feeds they've subscribed to. They will see all of their tasks in a task feed on their home page. A task could be a question about something, it could be to confirm that something is true, to watch a video, to click a link, to complete something, help someone, create something, or anything else the users can come up with. Once the task is complete they will acquire locus points if the task helped them, community points if it helped everyone else, or both if it helped both.
 
 What are my sources for multimedia content?’
 Right now, I am creating all the multimedia content myself, or creating different images using free stock images from the internet and modifying them. I have done this with the logo and background images on the front page.
 
 What is my budget?
-My own pocket for the time being.
+My own pocket for the time being. I am open to donations and would like to expand if I acquire enough.
 
 How long do I have to complete the project?
-As long as it takes.
+I will work on this as long as it takes, but I would like to get it going ASAP. Currently, working by myself, it could be a year before I have a basic usable user interface for the website. I am still learning how to use Django. The more people we get working on this, the sooner it will revolutionize the internet.
 
 Who is on my project team?
 No one yet. I would love to hear from anyone who has experience programming and wants to help. Also if you have constructive criticism or a suggestion for the project, I would like to hear it.
@@ -59,9 +57,9 @@ For example, there could be a fill in the blank type question that could say… 
 
 Privacy Options
 You have the option of sharing your information with the world (you can share anonymously) or keep your information absolutely private and do this just for you. A simple and honest privacy policy will need to be created.
-Options:	Share with the World!		I’m doing this for me.
-		       /                       \
-           Share anonymously         Share openly
+Options:	Share with the World!		Don't share.
+		 /                 \
+        Share anonymously      Share openly
 
 Site Navigation
 •	Home
@@ -166,3 +164,9 @@ The Community is where we make use of the collective brainpower and opinions of 
 •	Opinion: There will be polls on everything whether its about current events, companies, policies, or simply what you want, we all want to know what everyone really thinks!
 •	Categorization: This is where we will really organize the information on the internet, bringing together all related information in a wiki style of organization.
 •	Reviews
+
+
+
+Users will have the option of sharing their information publicly, rather than anonymously, and entering a leaderboard that displays which users have collected the most points in various categories. Other users will be able to look at the profiles of users set to publicly share their information similar to Facebook’s privacy settings.
+
+To make use of the plethora of information already available on the internet, I think it will be important to partner with other websites and organizations to make their resources available to Locuscraft users. For example Khan Academy could be one such website that could help users complete tasks relating to subjects on their website.

@@ -7,15 +7,15 @@ Currently I am creating Locuscraft using Django 1.9. I have already reserved the
 
 # Site Planning Questionnaire
 
-Who is the target audience?
+*Who is the target audience?*
 
-The general public
+Everyone. Ideally Locuscraft would be a tool that can improve everyone's day-to-day life.
 
-How can I tailor the web site to reach that audience?
+*How can I tailor the web site to reach that audience?*
 
 Make the website as instrumental, intuitive, and user friendly as possible so that anyone with any background or experience may use the website.
 
-What are the goals for the site?
+*What are the goals for the site?*
 
 1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through categorization, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also be able to search by keyword of course.
 
@@ -25,23 +25,23 @@ What are the goals for the site?
 
 4. To build a large and dedicated user base. None of the other goals are possible without the help of many, many users. In order to make the website more engaging and make users come back, we must give users great utility, and use some psychology. Users will be able to subscribe to interests (basically any category) and create goals. User's will earn points by completing tasks related to their interests and goals. More details below.
 
-How will the information be gathered?
+*How will the information be gathered?*
 
 All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization (tongue twister there). Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, uploads, and maybe other sources. Tasks and points for those tasks will be the main driving force for gathering this information. User's will acquire tasks from interests or tasks feeds they've subscribed to. They will see all of their tasks in a task feed on their home page. A task could be a question about something, it could be to confirm that something is true, to watch a video, to click a link, to complete something, help someone, create something, or anything else the users can come up with. Once the task is complete they will acquire locus points if the task helped them, community points if it helped everyone else, or both if it helped both.
 
-What are my sources for multimedia content?
+*What are my sources for multimedia content?*
 
-Right now, I am creating all the multimedia content myself, or creating different images using free stock images from the internet and modifying them. I have done this with the logo and background images on the front page.
+Right now, I am creating all the multimedia content myself, or creating different images using free stock images from the internet and modifying them. I have done this with the logo and background images on the front page. I am somewhat particular about the style of the website. I feel that it should be awe-inspiring give people a sense of discovery the moment they see the front page. The interface should be minimalistic and uncluttered to make as easy as possible to navigate and understand.
 
-What is my budget?
+*What is my budget?*
 
-My own pocket for the time being. I am open to donations and would like to expand if I acquire enough.
+My own pocket for the time being. I am open to donations and would like to expand if I acquire enough. I would like to have enough income from this project to make it my full-time job and move out of the house I am living in, but if you would like to contribute for a specific purpose, such as some internet service or dedicated servers, I'm sure we can arrange it.
 
-How long do I have to complete the project?
+*How long do I have to complete the project?*
 
 I will work on this as long as it takes, but I would like to get it going ASAP. Currently, working by myself, it could be a year before I have a basic usable user interface for the website. I am still learning how to use Django. The more people we get working on this, the sooner it will revolutionize the internet.
 
-Who is on my project team?
+*Who is on my project team?*
 
 No one yet. I would love to hear from anyone who has experience programming and wants to help. Also if you have constructive criticism or a suggestion for the project, I would like to hear it.
 
@@ -55,6 +55,30 @@ Just me for the time being.
 
 
 # More about my Plan
+
+Note that this is a bit outdated. I am working on writing the updated plan.
+
+##Entries
+
+Locuscraft entries are similar in nature to a Wikipedia entry. What is meant by entry is simply a subject/article/category of information, such as an entry about apples. Wikipedia was a revolutionary creation for the internet. It made paper encyclopedias obsolete with its plethora of encyclopedia based knowledge that its users, not the Wikimedia Foundation, added to the website. What can Locuscraft use from Wikipedia's example? What can Locuscraft bring to the table? 
+
+Take a look at the [entry for Apple on Wikipedia](https://en.wikipedia.org/wiki/Apple). It contains a vast amount of information about the simple fruit including its history, cultural aspects, cultivation, nutrition and then some. Similarly to Wikipedia's article for the apple, Locuscraft will have an entry likely with a table of contents with similar information. What does Wikipedia lack for the apple that the internet has, or could have? How about recipes? How about what people think about apples? How about a forum on the subject? Videos, pictures, and other multimedia? Where to buy apples on the internet? Locuscraft's purpose is to bring the internet of information about a subject into one central place. This is specifically the purpose of the entry. At the moment, Locuscraft entries will include the following:
+
+* Basic, need-to-know, information about the subject, followed by an expandable section of additional, useful, common and uncommon information about the subject, followed by the best places (websites) on the internet to learn more about the subject.
+* Latest news on the subject.
+* If the subject is related to a discipline or art, there will be a guide for learning that art. In the case of apples, this could be recipes or cultivation.
+* Videos, pictures, and other multimedia of the subject found on the internet.
+* Locuscraft user statistics relating to the subject (such as users' favorite apples, percent of user's that like apples, etc.).
+* User created tasks (more about tasks below) for the subject (such as watch a video about the subject, write your opinion about apples, answer a questionaire or poll about apples, etc.)
+* A list of communities/organizations/clubs relating to the subject.
+* A list of other subjects closely related to the subject.
+* Forums on the subject.
+* The ability to add the subject to your interests.
+
+All of this vast amount of information for each entry needs to be well organized, and the user should be able to further organize, or filter the information the way they want. Each division/bullet point should be orderable in different ways (similar to how posts on Reddit can be ordered), where appicable, such as: newest; "hot"; top posts by hour, day, week, month, year; rising, etc. There will also be a search bar which allows you to quickly search for information within the subject.
+
+##Categorization
+
 When a person creates a new profile, they will be subscribed to a default list of interests/categories. This list will include questions/tasks such as the following:
 •	What is your favorite color?
 •	When is your birthday?

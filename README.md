@@ -99,10 +99,11 @@ There is so much information on the internet. How can we possibly categorize it 
   * Reviews on the product, including reviews from other websites.
   * Buying guides for the product. Using vacuums as an example, you should be able find the best vacuums in different price tiers, with different functions, reliability, durability, portability, etc.
   * The ability to add the product to your interests.
+
 Locuscraft will hopefully become a source for unbiased product reviews and buying guides for any and all products. Product entries will be different than subject entries, as they will be focused on the quality of the product, sources of the product, reviews of the product, etc.
 * Sponsored - This could be a good source of revenue for Locuscraft. I'm sure some organizations or communities would like to create their own entries that target their consumers or members. These organizations would have full control over their entries including the tasks, what Locuscraft users can change or add to the entry, forums, and anything else associated with entries. There would be different price tiers, each tier changing the visibility of the entry to Locuscraft users. As an example, say McDonald's buys a sponsored entry. Users can then earn points by completing McDonald's tasks which might include a survey of what people think of McDonald's food. This could be an unbiased source of data about consumers and their opinons of McDonalds.
 
-Low-Level Categories
+###Low-Level Categories
 
 These will applied with tags, like people might put keywords for a photo. 
 

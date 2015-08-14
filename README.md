@@ -31,7 +31,7 @@ All of the information will come from the users. All we (the developers) have to
 
 *What are my sources for multimedia content?*
 
-Right now, I am creating all the multimedia content myself, or creating different images using free stock images from the internet and modifying them. I have done this with the logo and background images on the front page. I am somewhat particular about the style of the website. I feel that it should be awe-inspiring give people a sense of discovery the moment they see the front page. The interface should be minimalistic and uncluttered to make as easy as possible to navigate and understand.
+Right now, I am creating all the multimedia content myself, or creating different images using free stock images from the internet and modifying them. I have done this with the logo and background images on the front page. I am somewhat particular about the style of the website. I feel that it should be awe-inspiring and give people a sense of discovery the moment they see the front page. The interface should be minimalistic and uncluttered to make it as easy as possible to navigate and understand.
 
 *What is my budget?*
 
@@ -78,6 +78,38 @@ Take a look at the [entry for Apple on Wikipedia](https://en.wikipedia.org/wiki/
 All of this vast amount of information for each entry needs to be well organized, and the user should be able to further organize, or filter the information the way they want. Each division/bullet point should be orderable in different ways (similar to how posts on Reddit can be ordered), where appicable, such as: newest; "hot"; top posts by hour, day, week, month, year; rising, etc. There will also be a search bar which allows you to quickly search for information within the subject.
 
 ##Categorization
+
+Locuscraft should very much be a place of discovery. The first word in our motto is "learn". If you don't discover new information, then your learning is limited to things you already know about. Google is amazing and makes good information on the internet findable. The problem is, you have to know, or at least have an idea of what it is you are searching for. The purpose of categorization is to make entries you might be interested in more easily discoverable, by throwing them into branches you already have an interest in. An excellent example of categorization is Amazon's "shop by department". It breaks every product on their website down into categories. A user like myself might just go to "Electronics & Computers" then click "Wearable technology" and discover products I never knew existed. After clicking this, you can break the department down into even narrower sub-categories. Why not do this with the internet's information too? If we value the internet so much, why shouldn't we pitch good information and sell it to internet users the same way Amazon markets its products to customers? I can't think of a better way to educate people, than to make them want it, give them free range, and make it free.
+
+Categories will be hierarchical, meaning there will be top-level and bottom-level categories. 
+
+###Top-Level Categories
+
+There is so much information on the internet. How can we possibly categorize it all? Well it isn't hard if we make it broad enough. I have come up with the following top-level categories:
+
+* Subjects - These include basically anything you would find on Wikipedia, minus any articles about a specific product. It could be people, places, ideas, companies, etc. These entries will include information laid out in a similar way to the apple example above.
+* Products - These would be basically anything you would find on Amazon. They will be laid similarly to subjects but with more of a focus on the quality of the product, where to buy the product, reviews on the product, etc. They will include something similar to the following:
+  * Basic, need-to-know, information about the product, followed by an expandable section of additional, useful, common and uncommon information about the product, followed by the best places (websites) on the internet to learn more about the product.
+  * Latest news on the product if applicable.
+  * A list of subjects related to the product
+  * Videos, pictures, and other multimedia of the product found on the internet.
+  * Locuscraft user statistics relating to the product (users' preferences on the category of products, number of users with an interest in that product, etc.)
+  * User created tasks (more about tasks below) for the subject (such as write a review about the product, answer a poll of where you buy products in a category, etc.).
+  * A list outlets that sell the product, ordered by cheapest, most reliable, most consumers, etc.
+  * Reviews on the product, including reviews from other websites.
+  * Buying guides for the product. Using vacuums as an example, you should be able find the best vacuums in different price tiers, with different functions, reliability, durability, portability, etc.
+  * The ability to add the product to your interests.
+Locuscraft will hopefully become a source for unbiased product reviews and buying guides for any and all products. Product entries will be different than subject entries, as they will be focused on the quality of the product, sources of the product, reviews of the product, etc.
+* Sponsored - This could be a good source of revenue for Locuscraft. I'm sure some organizations or communities would like to create their own entries that target their consumers or members. These organizations would have full control over their entries including the tasks, what Locuscraft users can change or add to the entry, forums, and anything else associated with entries. There would be different price tiers, each tier changing the visibility of the entry to Locuscraft users. As an example, say McDonald's buys a sponsored entry. Users can then earn points by completing McDonald's tasks which might include a survey of what people think of McDonald's food. This could be an unbiased source of data about consumers and their opinons of McDonalds.
+
+Low-Level Categories
+
+These will applied with tags, like people might put keywords for a photo. 
+
+
+
+
+
 
 When a person creates a new profile, they will be subscribed to a default list of interests/categories. This list will include questions/tasks such as the following:
 •	What is your favorite color?

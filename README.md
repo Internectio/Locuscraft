@@ -1,7 +1,7 @@
 # What is Locuscraft?
-Locuscraft is a means for all internet users in the world to sort, rate, and review websites and information on the internet. It is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. Think Wikipedia meets Facebook meets Reddit. The best part of all is this will be free for everyone in the world.
+Locuscraft is a means for all internet users in the world to browse, sort, rate, and review websites and information on the internet. It is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. Think Wikipedia meets Facebook meets Reddit. The best part of all is this will be free for everyone in the world.
 
-Locuscraft's motto is "Learn. Built. Share." Why? Because this should be the order of creation. Locuscraft hopes to encompass all of these as a means to revolutionize the internet.
+Locuscraft's motto is "Learn. Build. Share." Locuscraft hopes to encompass all of these as a means to revolutionize the internet.
 
 Currently I am creating Locuscraft using Django 1.9. I have already reserved the domain space locuscraft.com, .net, and .org. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I will to upgrade the server to a dedicated server so we can handle a higher load of traffic.
 

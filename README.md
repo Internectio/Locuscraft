@@ -9,7 +9,7 @@ Currently I am creating Locuscraft using Django 1.9. I have already reserved the
 
 *Who is the target audience?*
 
-Everyone. Ideally Locuscraft would be a tool that can improve everyone's day-to-day life.
+Everyone. Ideally Locuscraft would become a tool that improves everyones day-to-day utility of the internet.
 
 *How can I tailor the web site to reach that audience?*
 

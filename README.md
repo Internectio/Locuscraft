@@ -5,6 +5,10 @@ Locuscraft's motto is "Learn. Build. Share." Locuscraft hopes to encompass all o
 
 Currently I am creating Locuscraft using Django 1.9. I have already reserved the domain space locuscraft.com, .net, and .org. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I will to upgrade the server to a dedicated server so we can handle a higher load of traffic.
 
+# Locuscraft Site Map
+
+Please view the [site map](https://cloud.githubusercontent.com/assets/11935672/9317205/bcc63562-44ff-11e5-85bd-9766431f23d1.png) to get a visualization of the website.
+
 # Site Planning Questionnaire
 
 *Who is the target audience?*

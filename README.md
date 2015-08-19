@@ -110,7 +110,7 @@ There is so much information on the internet. How can we possibly categorize it 
   * Buying guides for the product. Using vacuums as an example, you should be able find the best vacuums in different price tiers, with different functions, reliability, durability, portability, etc.
   * The ability to add the product to your interests.
 
-Locuscraft will hopefully become a source for unbiased product reviews and buying guides for any and all products. Product entries will be different than subject entries, as they will be focused on the quality of the product, sources of the product, reviews of the product, etc.
+  Locuscraft will hopefully become a source for unbiased product reviews and buying guides for any and all products. Product entries will be different than subject entries, as they will be focused on the quality of the product, sources of the product, reviews of the product, etc.
 * Sponsored - This could be a good source of revenue for Locuscraft. I'm sure some organizations or communities would like to create their own entries that target their consumers or members. These organizations would have full control over their entries including the tasks, what Locuscraft users can change or add to the entry, forums, and anything else associated with entries. There would be different price tiers, each tier changing the visibility of the entry to Locuscraft users. As an example, say McDonald's buys a sponsored entry. Users can then earn points by completing McDonald's tasks which might include a survey of what people think of McDonald's food. This could be an unbiased source of data about consumers and their opinons of McDonalds.
 
 ###Low-Level Categories
@@ -125,10 +125,30 @@ If an entry only has low-level category tags like fruit though, then Locuscraft 
 
 If browsing for apples one could go to Subjects > Plants > Trees > Apple. Alternatively one could go to Subjects > Food > Fruit > Apple. Maybe that's a bad example since one is referring to an apple tree and one is an apple the fruit. But just understand that a single entry can be navigated to through different branches of the category hierarchy, assuming it falls under multiple categories.
 
+##User Profile
+Picture the user profile as you would a Facebook Profile. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft user profile, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and getting things done (tasks).
 
+###Points
+Every user will have his or her own points. There are two kinds of points: Locus Points and Community Points. Points are always and only awarded from completing tasks. The purpose of points are to encourage users to continue using Locuscraft. It is basically a psychological reward and some users may become addicted to earning points (similar to Reddit's karma system). Users will be able to see other users' total amount of points and therefore points could be a representation of status. We could even keep a leaderboard of users with the most Locus or Community points. I would like to make points unlock actual things for the user's profile in the future, such as custom skins or avatars, maybe web tools. I'm open to other ideas.
 
+####Locus Points
+Locus points are basically awarded for completing personal tasks, tasks that affect the user only. When a user completes the task for adding their first interest, this will award locus points since this task affects no one but that user. Other examples might be completing a task to watch a video, read an article, or customize their profile in some way. All of these are purely for that user's benefit.
 
+####Community Points
+These will be awarded when a user completes a task that helps at least one other user, or contributes to an entry on Locuscraft. These tasks include surveys, linking web addresses to entries, adding descriptions to entries, answering user questions (to the best of their ability), being active in forums, etc. You might ask, how can we know if a user is being honest on these tasks and not just farming for points or trolling? We can ensure points are only awarded to honest users by having other users in the community check their answers. This could be another community task in itself, to check users and ensure that they gave an actual response, or linked an actual website, or wrote an actual description.
 
+###Interests
+When a user first creates their account they will either have no interests to start with or have a few default interests that everyone starts with. The user will have a task in their task feed to find new interests, and when they do so, they will be awarded some locus points.
+
+###Goals
+###Task Feed
+
+##Privacy
+
+Users will have the option of sharing their information with the world (info can be shared anonymously) or keep their information absolutely private. A simple and honest privacy policy will need to be created.
+Options:	Share with the World!		Don't share.
+		 /                 \
+        Share anonymously      Share openly
 
 When a person creates a new profile, they will be subscribed to a default list of interests/categories. This list will include questions/tasks such as the following:
 •	What is your favorite color?
@@ -140,14 +160,12 @@ When a person creates a new profile, they will be subscribed to a default list o
 •	If yes > Select the kind of pets you have on this list.
 o	There will be a list of the most common types of pets (dogs, cats, birds, rodents)
 o	These options will have subcategories of the species/breed of animal they have and it will also ask the number of each that they have.
+
 To make people feel more productive and less like they are simply doing a survey, the website will also ask the person about things they should be doing, things they need, things they want, etc., then have them do tasks in order to get closer to reaching their own goals. 
+
 For example, there could be a fill in the blank type question that could say… “I need a new ___.” If the user were to put in “vacuum”, then the website could ask the user questions about vacuums specifically, such as “how much money are you willing to spend?” “Which of the following criteria are important? Functionality, looks, price, …” The website could then ask them to research vacuums online, find the one they want, and copy and paste the link onto their profile. Then this person will have a list labelled “Things I Need”. Under this list will be a vacuum along with a link to the one they chose. Completing a series of questions/tasks like this will give them a good amount of points.
 
-Privacy Options
-You have the option of sharing your information with the world (you can share anonymously) or keep your information absolutely private and do this just for you. A simple and honest privacy policy will need to be created.
-Options:	Share with the World!		Don't share.
-		 /                 \
-        Share anonymously      Share openly
+
 
 Site Navigation
 •	Home

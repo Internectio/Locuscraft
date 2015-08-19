@@ -83,9 +83,15 @@ All of this vast amount of information for each entry needs to be well organized
 
 ##Categorization
 
-Locuscraft should very much be a place of discovery. The first word in our motto is "learn". If you don't discover new information, then your learning is limited to things you already know about. Google is amazing and makes good information on the internet findable. The problem is, you have to know, or at least have an idea of what it is you are searching for. The purpose of categorization is to make entries you might be interested in more easily discoverable, by throwing them into branches you already have an interest in. An excellent example of categorization is Amazon's "shop by department". It breaks every product on their website down into categories. A user like myself might just go to "Electronics & Computers" then click "Wearable technology" and discover products I never knew existed. After clicking this, you can break the department down into even narrower sub-categories. Why not do this with the internet's information too? If we value the internet so much, why shouldn't we pitch good information and sell it to internet users the same way Amazon markets its products to customers? I can't think of a better way to educate people, than to make them want it, give them free range, and make it free.
+Locuscraft should very much be a place of discovery. The first word in our motto is "learn". If you don't discover new information, then your learning is limited to things you already know about. Google is amazing and makes good information on the internet findable. The problem is, you have to know, or at least have an idea of what it is you are searching for. 
 
-Categories will be hierarchical, meaning there will be top-level and bottom-level categories. 
+The purpose of categorization is to make entries you might be interested in more easily discoverable, by throwing them into branches you already have an interest in. An excellent example of categorization is Amazon's "shop by department". It breaks every product on their website down into categories. A user like myself might just go to "Electronics & Computers" then click "Wearable technology" and discover products I never knew existed. After clicking this, you can break the department down into even narrower sub-categories. Why not do this with the internet's information too? If we value the internet so much, why shouldn't we pitch good information and sell it to internet users the same way Amazon markets its products to customers?
+
+Categories will be hierarchical, meaning there will be top-level, mid-level (possibly multiple), and bottom-level categories. Categories are used to give users another way to browse, find, or discover entries. Let's say a user is looking to buy a new chainsaw as an example. It could be navigated to like this: 
+
+Products > Patio, Lawn, & Garden > Lawn Mowers & Outdoor Power Tools > Chainsaws
+
+This is actually how you would find a chainsaw on Amazon.com.
 
 ###Top-Level Categories
 
@@ -109,7 +115,15 @@ Locuscraft will hopefully become a source for unbiased product reviews and buyin
 
 ###Low-Level Categories
 
-These will applied with tags, like people might put keywords for a photo. 
+These will be applied with tags, like people might put keywords for a photo. With the apple example, it would be tagged with fruit, food, plant, tree, cooking etc. 
+
+###Mid-Level Categories
+
+These can also be applied to an entry with tags. With the apple example, food and plant are mid-level categories since they have lower-level categories like fruit and tree below them.
+
+If an entry only has low-level category tags like fruit though, then Locuscraft will automatically be able to fill in the mid-level categories. Say apple was only tagged with the tag "fruit", then Locuscraft should automatically know that fruit falls under the mid-level category food. 
+
+If browsing for apples one could go to Subjects > Plants > Trees > Apple. Alternatively one could go to Subjects > Food > Fruit > Apple. Maybe that's a bad example since one is referring to an apple tree and one is an apple the fruit. But just understand that a single entry can be navigated to through different branches of the category hierarchy, assuming it falls under multiple categories.
 
 
 

@@ -125,8 +125,8 @@ If an entry only has low-level category tags like fruit though, then Locuscraft 
 
 If browsing for apples one could go to Subjects > Plants > Trees > Apple. Alternatively one could go to Subjects > Food > Fruit > Apple. Maybe that's a bad example since one is referring to an apple tree and one is an apple the fruit. But just understand that a single entry can be navigated to through different branches of the category hierarchy, assuming it falls under multiple categories.
 
-##User Profile
-Picture the user profile as you would a Facebook Profile. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft user profile, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and getting things done (tasks).
+##User Profile/Home
+Picture the user profile as you would a Facebook Profile. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft user profile, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and getting things done (tasks). New users’ homes will display suggestions for where they should start.
 
 ###Points
 Every user will have his or her own points. There are two kinds of points: Locus Points and Community Points. Points are always and only awarded from completing tasks. The purpose of points are to encourage users to continue using Locuscraft. It is basically a psychological reward and some users may become addicted to earning points (similar to Reddit's karma system). Users will be able to see other users' total amount of points and therefore points could be a representation of status. We could even keep a leaderboard of users with the most Locus or Community points. I would like to make points unlock actual things for the user's profile in the future, such as custom skins or avatars, maybe web tools. I'm open to other ideas.
@@ -138,41 +138,63 @@ Locus points are basically awarded for completing personal tasks, tasks that aff
 These will be awarded when a user completes a task that helps at least one other user, or contributes to an entry on Locuscraft. These tasks include surveys, linking web addresses to entries, adding descriptions to entries, answering user questions (to the best of their ability), being active in forums, etc. You might ask, how can we know if a user is being honest on these tasks and not just farming for points or trolling? We can ensure points are only awarded to honest users by having other users in the community check their answers. This could be another community task in itself, to check users and ensure that they gave an actual response, or linked an actual website, or wrote an actual description.
 
 ###Interests
-When a user first creates their account they will either have no interests to start with or have a few default interests that everyone starts with. The user will have a task in their task feed to find new interests, and when they do so, they will be awarded some locus points.
+Adding an interest is basically the same thing as subscribing to a subject entry. The user can navigate to a subject and click add to interests at the top. By adding an interest, the user adds that entry's tasks to their own task feed, and therefore their task feed will reflect their own interests. Say one of the user's interests is funny stuff, they can add "humor" to their interests. Then they might get a daily task to view the top funny posts of the day. Once they do this, they will both have a good laugh, and earn some locus points.
+
+When a user first creates their account they will either have no interests to start with or have a few default interests that everyone starts with, similar to the way new Reddit users starte with default subreddit subscriptions. The user will have a task in their task feed to find new interests, and when they do so, they will be awarded some locus points.
 
 ###Goals
+Goals are meant to keep the user focused. They will be a reminder of what the user really needs to be doing. Goals are optional, but suggested. If a user really doesn't care about making a list of goals, they don't have to. Those that do will feel like Locuscraft truly is a productive place to be. I know for myself, that's important. I don't want my internet experience to feel like a time killer. 
+
+Goals are not like tasks, and therefore can't simply be subscribed to. For this reason, goals will not implicitely award points either. However goals can be linked to tasks if certain tasks need to be completed in order to complete the goal. Therefore if a goal requires tasks, points can still be earned.
+
+Goals must be flexible enough to capture anyone's actual goals in life. Of course not everyone's goals can be accomplished on the internet. But Locuscraft can at least be the place to remind you of them and help you anyway it can. The user will be able to make a list of their goals, giving each goal a variety of options. These options could include priority, urgency, recurrence, timeline, resources (links, interests, uploads, etc.), related tasks, reminders, and so on. Our goal in designing goals is to give the user as many tools as possible to assist them in completing that goal.
+
+Locuscraft will also suggest goals to the user to give them ideas. For example one suggested goal could be to "write in your journal every day". Locuscraft can even provide a tool for the user to write in an online journal and keep up with their daily activities and journal entries. 
+
 ###Task Feed
+
+The task feed is a medium through which the user can do things on the internet in a personalized, and to some extent, exploratory way. Locuscraft will keep up with what is popular among the user's interests and display the most popular tasks on their task feed. This way the user can keep up with what's new in the world and also explore their own interests.
+
+Tasks sound like work, but really they are just an action the user will perform on the internet along with some criteria that must be satisfied to earn points. A task could be to watch a video, and the criteria is they must watch at least 2 minutes. Locuscraft can start a timer from when they click play to when two minutes is up or when they click pause. 
+
+There will be an option at the top right corner of every task saying “Not now”. If the task is marked as urgent, or if the due date is upcoming soon, a warning message will appear notifying them and they will have two options: “I know” (continue) or “Okay, I’ll do it”. If this turns out to be annoying, it might be changed.
+
+Daily Tasks
+
+Long-term Tasks
+
+Tasks on the task feed should be sortable in many different ways. Think of how you can sort posts on Reddit, i.e. by hot, top, rising, controversial, etc.
+
+Every now and then, the task feed will have a suggestion for the user based on their other interests. It could be a suggestion to look at an entry, to add a goal, or to change a setting. It could be anything.
+
+###Craft your Locus
+
+Here is where Locuscraft will learn about the user and make suggestions.
+
+###I Want...
+####To ask a question
+
+####To buy a product
+Criteria...
+
+“How much money are you willing to spend?” “Which of the following criteria are important? Functionality, looks, price, …” The website could then ask them to research vacuums online, find the one they want, and copy and paste the link onto their profile. Then this person will have a list labelled “Things I Need”. Under this list will be a vacuum along with a link to the one they chose. Completing a series of questions/tasks like this will give them a good amount of points.
+
 
 ##Privacy
 
 Users will have the option of sharing their information with the world (info can be shared anonymously) or keep their information absolutely private. A simple and honest privacy policy will need to be created.
+
 Options:	Share with the World!		Don't share.
+
 		 /                 \
+		 
         Share anonymously      Share openly
 
-When a person creates a new profile, they will be subscribed to a default list of interests/categories. This list will include questions/tasks such as the following:
-•	What is your favorite color?
-•	When is your birthday?
-•	List five of your favorite shows.
-•	What was the last show you watched?
-•	What is your favorite cuisine?
-•	Do you have any pets?
-•	If yes > Select the kind of pets you have on this list.
-o	There will be a list of the most common types of pets (dogs, cats, birds, rodents)
-o	These options will have subcategories of the species/breed of animal they have and it will also ask the number of each that they have.
-
-To make people feel more productive and less like they are simply doing a survey, the website will also ask the person about things they should be doing, things they need, things they want, etc., then have them do tasks in order to get closer to reaching their own goals. 
-
-For example, there could be a fill in the blank type question that could say… “I need a new ___.” If the user were to put in “vacuum”, then the website could ask the user questions about vacuums specifically, such as “how much money are you willing to spend?” “Which of the following criteria are important? Functionality, looks, price, …” The website could then ask them to research vacuums online, find the one they want, and copy and paste the link onto their profile. Then this person will have a list labelled “Things I Need”. Under this list will be a vacuum along with a link to the one they chose. Completing a series of questions/tasks like this will give them a good amount of points.
 
 
 
 Site Navigation
-•	Home
-Home must be the users’ base. It must display everything important to the user, including their tasks, and remind them of their goals. New users’ homes will display suggestions for where they should start. Users who have goals already will have a sort of “feed” listing their daily tasks, things they need to work on, etc. There will be an option at the top right corner of every task saying “Not now”. If the task is marked as urgent, or if the due date is upcoming soon, a warning message will appear notifying them and they will have two options: “I know” (continue) or “Okay, I’ll do it”. If this turns out to be annoying, it might be changed.
 Possible Organization of the Homepage:
-o	Craft your Locus
-Here is where Locuscraft will learn about the user and make suggestions.
 o	Daily Tasks
 These will be fully customizable by the user. They can be completed in a short amount of time, completed on a daily basis or regular basis, or are scheduled for the current day. Locuscraft will have a database of tasks for the user to choose from. For specific tasks that have not yet been created in the database, users will be able to create their own and set it's parameters. For some of them, progress will be measurable in some way. For others, they will simply be set as completed or incomplete. Regular Basis Examples:
 	Answer profile questions.

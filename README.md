@@ -1,9 +1,12 @@
 # What is Locuscraft?
-Locuscraft is a means for all internet users in the world to browse, sort, rate, and review websites and information on the internet. It is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. Think Wikipedia meets Facebook meets Reddit. The best part of all is this will be free for everyone in the world.
+1. *A central internet community.* Locuscraft is a means for all internet users in the world to browse, sort, rate, and review websites and information on the internet. 
+2. *A home for the individual internet user.* Locuscraft is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. 
 
-Locuscraft's motto is "Learn. Build. Share." Locuscraft hopes to encompass all of these as a means to revolutionize the internet.
+Imagine if Wikipedia, Facebook, and Reddit had a baby. Throw in a few extra things like goals, reviews, and internet tools and you have Locuscraft. Like those other websites, Locuscraft too will be free to use for everyone. Ads will be uninvasive like Reddit.
 
-Currently I am creating Locuscraft using Django 1.9. I have already reserved the domain space locuscraft.com, .net, and .org. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I will to upgrade the server to a dedicated server so we can handle a higher load of traffic.
+Locuscraft's motto is "Learn. Build. Share." Locuscraft hopes to empower the internet with the ability to teach, build, and share information in the most organized and truth centered way.
+
+Currently I am creating Locuscraft using Django 1.9. I have already reserved the domain space locuscraft.com, .net, and .org. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I would like to upgrade the server to a dedicated server so we can handle a higher load of traffic.
 
 # Locuscraft Site Map
 

@@ -1,12 +1,20 @@
 # What is Locuscraft?
-1. *A central internet community.* Locuscraft is a means for all internet users in the world to browse, sort, rate, and review websites and information on the internet. 
-2. *A home for the individual internet user.* Locuscraft is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. 
+1. **A central internet community.** Locuscraft is a means for all internet users in the world to browse, sort, rate, and review websites and information on the internet. 
+2. **A home for the individual internet user.** Locuscraft is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. 
 
-Imagine if Wikipedia, Facebook, and Reddit had a baby. Throw in a few extra things like goals, reviews, and internet tools and you have Locuscraft. Like those other websites, Locuscraft too will be free to use for everyone. Ads will be uninvasive like Reddit.
+We live in a world of corporations where money runs everything, and whomever has the most money has the most control. Control over our opinions, what we buy, what our values our. It's time we make our own decisions. The world may be run by corporations, but the internet can be run by us. Locuscraft is the solution I bring to you.  
 
-Locuscraft's motto is "Learn. Build. Share." Locuscraft hopes to empower the internet with the ability to teach, build, and share information in the most organized and truth centered way.
+There have already been great strides in the internet world with websites like Wikipedia, Reddit, and Khan Academy to name a few. Locuscraft builds on their example. Open source, no ads - period, an honest and user centered privacy policy, user reviews of everything on the internet, opinion polls... on everything, guides... on everything, collaboration on anything, incredible ease of use, unlimited individual personalization of profiles. Locuscraft can be - and will be - a website of the internet users, by the internet users, and for the internet users.
 
-Currently I am creating Locuscraft using Django 1.9. I have already reserved the domain space locuscraft.com, .net, and .org. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I would like to upgrade the server to a dedicated server so we can handle a higher load of traffic.
+Locuscraft's motto is "Learn. Build. Share." because this is what humans do (or should do). We learn, we use that knowledge to build something, we share our knowledge and creations to make the world better. In our incorporated world everything is jacked up. We learn what's in a select fews' best interests, we build what's in their interest, and we don't share unless people pay. Well we can change the status quo if we work together. Let's set an example with Locuscraft.
+
+By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft a single place to bring everything together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
+
+# Who am I?
+
+I'm a fed-up 24 year old with a degree in Electronics and Computer Engineering. I could have a good job if I wanted, but I can't bring myself to work in this world, working for the rich and corrupt, fueling our rate of consumption, having my creativity stiffled... So instead I'm living next door to my parents trying to come up with a plan to control my own future and maybe do something about this world in the process. Locuscraft is my plan. I've been planning it out for almost a year now. I was going to try to do this by myself and see if I could get rich, then pursue other projects. I've decided this is too important and too big of a task for me. If it's going to work, if it's going to happen, I have to get the idea out there. So now I'm asking you, if you're reading this, to share Locuscraft anyway you can. If you can help me, let me know. If you have a suggestion, let me know. This is for everyone, so everyone has a say!
+
+Other than tons of planning and making this readme, here's what I've done so far. I have reserved the domain space locuscraft.com, .net, and .org. Locuscraft.net and .org just point to .com. I built the homepage with Bootstrap, check it out. It's really just a placeholder for now. You can make an account and login but can't do anything yet other than log back out. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I would like to upgrade the server to a dedicated server so we can handle a higher load of traffic. As for the rest of Locuscraft (the user interface, profile, all functionality), it has not been built yet. It is beyond my current level of programming, so I have turned to creating it with Django 1.9, which is supposed to make creating web apps easier. I've been going through the tutorials but there is a lot to learn still. That's when I decided to just get some damn help.
 
 # Locuscraft Site Map
 
@@ -24,7 +32,7 @@ Make the website as instrumental, intuitive, and user friendly as possible so th
 
 *What are the goals for the site?*
 
-1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through categorization, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also be able to search by keyword of course.
+1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through a search engine and categorization, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also discover information through interests and tasks (more on that below).
 
 2. To cater towards each user's interests and goals as much as possible, by providing them with an extensively customizable profile. This will allow users to better manage their time and utility while on the internet, as well as provide an entertaining, useful, go-to internet home. Whether the user's goal is to do research, to be entertained, to socialize, etc., Locuscraft should cater to and help the user accomplish this. Ways of accomplishing this will be discussed below.
 
@@ -34,7 +42,7 @@ Make the website as instrumental, intuitive, and user friendly as possible so th
 
 *How will the information be gathered?*
 
-All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization (tongue twister there). Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, uploads, and maybe other sources. Tasks and points for those tasks will be the main driving force for gathering this information. User's will acquire tasks from interests or tasks feeds they've subscribed to. They will see all of their tasks in a task feed on their home page. A task could be a question about something, it could be to confirm that something is true, to watch a video, to click a link, to complete something, help someone, create something, or anything else the users can come up with. Once the task is complete they will acquire locus points if the task helped them, community points if it helped everyone else, or both if it helped both.
+All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization (tongue twister there). Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, uploads, and maybe other sources. Tasks and points for those tasks will be the main driving force for gathering this information.
 
 *What are my sources for multimedia content?*
 
@@ -52,11 +60,11 @@ I will work on this as long as it takes, but I would like to get it going ASAP. 
 
 No one yet. I would love to hear from anyone who has experience programming and wants to help. Also if you have constructive criticism or a suggestion for the project, I would like to hear it.
 
-How often should the site be updated?
+*How often should the site be updated?*
 
 Probably daily but that is down the road.
 
-Who is responsible for updating the site?
+*Who is responsible for updating the site?*
 
 Just me for the time being.
 

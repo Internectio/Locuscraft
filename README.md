@@ -77,7 +77,7 @@ Note that this is a bit outdated. I am working on writing the updated plan.
 
 Locuscraft entries are similar in nature to a Wikipedia entry. What is meant by entry is simply a subject/article/category of information, such as an entry about apples. Wikipedia was a revolutionary creation for the internet. It made paper encyclopedias obsolete with its plethora of encyclopedia based knowledge that its users, not the Wikimedia Foundation, added to the website. What can Locuscraft use from Wikipedia's example? What can Locuscraft bring to the table? 
 
-Take a look at the [entry for Apple on Wikipedia](https://en.wikipedia.org/wiki/Apple). It contains a vast amount of information about the simple fruit including its history, cultural aspects, cultivation, nutrition and then some. Similarly to Wikipedia's article for the apple, Locuscraft will have an entry likely with a table of contents with similar information. What does Wikipedia lack for the apple that the internet has, or could have? How about recipes? How about what people think about apples? How about a forum on the subject? Videos, pictures, and other multimedia? Where to buy apples on the internet? Locuscraft's purpose is to bring the internet of information about a subject into one central place. This is specifically the purpose of the entry. At the moment, Locuscraft entries will include the following:
+Take a look at the [entry for Apple on Wikipedia](https://en.wikipedia.org/wiki/Apple). It contains a vast amount of information about the simple fruit including its history, cultural aspects, cultivation, nutrition and then some. Similarly to Wikipedia's article for the apple, Locuscraft will have an entry likely with a table of contents with similar information. What does Wikipedia lack for the apple that the internet has, or could have? How about recipes? How about what people think about apples? How about a place to comment on the subject? Videos, pictures, and other multimedia? Where to buy apples on the internet? Locuscraft's purpose is to bring the internet of information about a subject into one central place. This is specifically the purpose of the entry. At the moment, Locuscraft entries will include the following:
 
 * Basic, need-to-know, information about the subject, followed by an expandable section of additional, useful, common and uncommon information about the subject, followed by the best places (websites) on the internet to learn more about the subject.
 * Latest news on the subject.
@@ -135,6 +135,49 @@ These can also be applied to an entry with tags. With the apple example, food an
 If an entry only has low-level category tags like fruit though, then Locuscraft will automatically be able to fill in the mid-level categories. Say apple was only tagged with the tag "fruit", then Locuscraft should automatically know that fruit falls under the mid-level category food. 
 
 If browsing for apples one could go to Subjects > Plants > Trees > Apple. Alternatively one could go to Subjects > Food > Fruit > Apple. Maybe that's a bad example since one is referring to an apple tree and one is an apple the fruit. But just understand that a single entry can be navigated to through different branches of the category hierarchy, assuming it falls under multiple categories.
+
+##Navigation Bar
+The navigation bar is critical to Locuscraft's user friendliness. It must be intuitive to use and provide quick access to everywhere else on the site. The navigation bar excludes logged in users' information. It is the navigation for all users logged in or out. 
+
+The navigation bar at the very least will have the "home" link to the Locuscraft front page, and a search bar. The search bar could have a category drop down to search by category (like Amazon's search by department).
+
+The rest of the navigation bar is dependent on the functionality of Locuscraft. There needs to be a way to browse Locuscraft's entries in a variety of ways i.e. by category, popularity, featured, etc. There's products, subjects, and sponsored. Most people aren't going to want to look through sponsored so it can be excluded. 
+
+**Discover**
+Subjects >
+	[Wikipedia Category Structure](https://en.wikipedia.org/wiki/Portal:Contents/Categories)
+	or
+	[Web Directory Structure](http://botw.org/)
+	Most Viewed
+	New Entries
+	Top
+	Hot
+	Random
+	Featured
+Products >
+	[Amazon Category Structure](http://www.amazon.com/gp/site-directory/ref=nav_shopall_fullstore)
+	Most Purchased
+	Most Viewed
+	New
+	Recommended
+	Highest Reviews
+	Featured
+Entertainment
+News
+Tools
+
+**Create**
+A Web Project
+An Entry
+Art
+Something with us
+I don't know what to create
+
+**Share**
+A Story
+An Idea
+Knowledge 
+the Wealth (Donate to us or to charity)
 
 ##User Profile/Home
 Picture the user profile as you would a Facebook Profile. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft user profile, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and getting things done (tasks). New users’ homes will display suggestions for where they should start.

@@ -8,7 +8,7 @@ There have already been great strides in the internet world with websites like W
 
 Locuscraft's motto is "Learn. Build. Share." because this is what humans do (or should do). We learn, we use that knowledge to build something, we share our knowledge and creations to make the world better. In our incorporated world everything is jacked up. We learn what's in a select fews' best interests, we build what's in their interest, and we don't share unless people pay. Well we can change the status quo if we work together. Let's set an example with Locuscraft.
 
-By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft a single place to bring everything together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
+By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
 
 # Who am I?
 
@@ -84,7 +84,7 @@ Take a look at the [entry for Apple on Wikipedia](https://en.wikipedia.org/wiki/
 * If the subject is related to a discipline or art, there will be a guide for learning that art. In the case of apples, this could be recipes or cultivation.
 * Videos, pictures, and other multimedia of the subject found on the internet.
 * Locuscraft user statistics relating to the subject (such as users' favorite apples, percent of user's that like apples, etc.).
-* User created tasks (more about tasks below) for the subject (such as watch a video about the subject, write your opinion about apples, answer a questionaire or poll about apples, etc.)
+* User created tasks (more about tasks below) for the subject (such as give your opinion about apples, answer a questionaire or poll about apples, contribute to apple research, etc.)
 * A list of communities/organizations/clubs relating to the subject.
 * A list of other subjects closely related to the subject.
 * Forums on the subject.
@@ -180,36 +180,41 @@ Knowledge
 the Wealth (Donate to us or to charity)
 
 ##User Profile/Home
-Picture the user profile as you would a Facebook Profile. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft user profile, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and getting things done (tasks). New users’ homes will display suggestions for where they should start.
+Picture the user profile as you would a Facebook Profile. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft user profile, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and contributing to the internet (tasks). New users’ homes will display suggestions for where they should start.
 
 ###Points
-Every user will have his or her own points. There are two kinds of points: Locus Points and Community Points. Points are always and only awarded from completing tasks. The purpose of points are to encourage users to continue using Locuscraft. It is basically a psychological reward and some users may become addicted to earning points (similar to Reddit's karma system). Users will be able to see other users' total amount of points and therefore points could be a representation of status. We could even keep a leaderboard of users with the most Locus or Community points. I would like to make points unlock actual things for the user's profile in the future, such as custom skins or avatars, maybe web tools. I'm open to other ideas.
+**Community Points**
+Users can earn community points by completing tasks. Community points are a measurement of what a user has contributed to the community, to Locuscraft, and therefore to the internet itself. Points are a free source of positive reinforcement for the users and will encourage them to keep up the good work.
 
-####Locus Points
-Locus points are basically awarded for completing personal tasks, tasks that affect the user only. When a user completes the task for adding their first interest, this will award locus points since this task affects no one but that user. Other examples might be completing a task to watch a video, read an article, or customize their profile in some way. All of these are purely for that user's benefit.
+Similar to Reddit's karma, any user will be able to see any other user's points. Therefore points could become a representation of status. To further their value, a leaderboard could keep track of users with the most points. Eventually, I would like to make points unlock actual things for the user's profile as well, such as custom skins or avatars, maybe web tools. I'm open to other ideas.
 
-####Community Points
-These will be awarded when a user completes a task that helps at least one other user, or contributes to an entry on Locuscraft. These tasks include surveys, linking web addresses to entries, adding descriptions to entries, answering user questions (to the best of their ability), being active in forums, etc. You might ask, how can we know if a user is being honest on these tasks and not just farming for points or trolling? We can ensure points are only awarded to honest users by having other users in the community check their answers. This could be another community task in itself, to check users and ensure that they gave an actual response, or linked an actual website, or wrote an actual description.
+These tasks include surveys, linking web addresses to entries, adding descriptions to entries, answering user questions (to the best of their ability), being active in forums, etc. You might ask, how can we know if a user is being honest on these tasks and not just farming for points or trolling? We can ensure points are only awarded to honest users by having other users in the community check their answers. This could be another community task in itself, to check users and ensure that they gave an actual response, or linked an actual website, or wrote an actual description.
+
+**Other Points**
+I had planned on including another type of points, called locus points, which would be awarded for completing tasks that affect only that user. I came to the conclusion that this would just add complexity and confusion to tasks. For example how do you gauge if a user read an article, watched a video, or did something for themselves in the real world like mow the lawn? It would be much more trouble than it's worth and these tasks are done for personal reasons anyway.
 
 ###Interests
-Adding an interest is basically the same thing as subscribing to a subject entry. The user can navigate to a subject and click add to interests at the top. By adding an interest, the user adds that entry's tasks to their own task feed, and therefore their task feed will reflect their own interests. Say one of the user's interests is funny stuff, they can add "humor" to their interests. Then they might get a daily task to view the top funny posts of the day. Once they do this, they will both have a good laugh, and earn some locus points.
+Adding an interest is basically the same thing as subscribing to a subject entry. The user can navigate to a subject and click add to interests at the top. By adding an interest, the user adds that entry's activities and tasks to their activity feed, and therefore their activity feed will reflect their own interests. 
 
-When a user first creates their account they will either have no interests to start with or have a few default interests that everyone starts with, similar to the way new Reddit users starte with default subreddit subscriptions. The user will have a task in their task feed to find new interests, and when they do so, they will be awarded some locus points.
+Say one of the user's interests is funny stuff, they can add "comedy" to their interests. Humor itself would be a mid-level category with many categories below it, so adding humor would add all of the bottom-level categories beneath it. This could be fine-tuned to that user's sense of humor.
+
+New accounts will have a few default interests that everyone starts with, including comedy, similar to the way new Reddit users start with default subreddit subscriptions.
 
 ###Goals
-Goals are meant to keep the user focused. They will be a reminder of what the user really needs to be doing. Goals are optional, but suggested. If a user really doesn't care about making a list of goals, they don't have to. Those that do will feel like Locuscraft truly is a productive place to be. I know for myself, that's important. I don't want my internet experience to feel like a time killer. 
+Remember that Locuscraft is effectively a life organizer for the individual user, and everyone has some goals in life. Goals are included in Locuscraft so we can help the user stay focused, remind them of their goals, and help them accomplish their goals.
 
-Goals are not like tasks, and therefore can't simply be subscribed to. For this reason, goals will not implicitely award points either. However goals can be linked to tasks if certain tasks need to be completed in order to complete the goal. Therefore if a goal requires tasks, points can still be earned.
+Goals are separate from activies, and therefore can't simply be subscribed to. However a goal may include some activity, which can be linked to the goal. For example the goal could be to learn more about carpentry, therefore the user could link the carpentry entry to their goal, add carpentry to their interests, and when they do carpentry activities, they will learn about carpentry and work towards their goal. Likewise a goal can include tasks and any task can be included in a goal.
 
-Goals must be flexible enough to capture anyone's actual goals in life. Of course not everyone's goals can be accomplished on the internet. But Locuscraft can at least be the place to remind you of them and help you anyway it can. The user will be able to make a list of their goals, giving each goal a variety of options. These options could include priority, urgency, recurrence, timeline, resources (links, interests, uploads, etc.), related tasks, reminders, and so on. Our goal in designing goals is to give the user as many tools as possible to assist them in completing that goal.
+The user's goals will be in list format, and each goal will have a variety of entry fields and features that can be associated with them. The user will be able to control things like the goal's priority, urgency, recurrence, timeline, resources (links, interests, uploads, etc.), related tasks, reminders, and so on. Our goal in designing goals is to give the user as many tools as possible to assist them in completing that goal.
 
 Locuscraft will also suggest goals to the user to give them ideas. For example one suggested goal could be to "write in your journal every day". Locuscraft can even provide a tool for the user to write in an online journal and keep up with their daily activities and journal entries. 
 
-###Task Feed
+###Activity Feed
 
-The task feed is a medium through which the user can do things on the internet in a personalized, and to some extent, exploratory way. Locuscraft will keep up with what is popular among the user's interests and display the most popular tasks on their task feed. This way the user can keep up with what's new in the world and also explore their own interests.
+**Tasks**
+The activity feed is the medium through which the user will do things on the internet in a personalized and exploratory way. Activies in the activity feed will be a reflection of their interests. The activies can be filtered and sorted in various ways including most popular, highest rated, newest, and other more specific ways depending on the activity.
 
-Tasks sound like work, but really they are just an action the user will perform on the internet along with some criteria that must be satisfied to earn points. A task could be to watch a video, and the criteria is they must watch at least 2 minutes. Locuscraft can start a timer from when they click play to when two minutes is up or when they click pause. 
+An activity on Locuscraft is similar to a post on reddit. Likewise, interests are similar to subreddits. The key difference is the way an activity is rated and organized, by users as well as how interests are rated and organized. 
 
 There will be an option at the top right corner of every task saying “Not now”. If the task is marked as urgent, or if the due date is upcoming soon, a warning message will appear notifying them and they will have two options: “I know” (continue) or “Okay, I’ll do it”. If this turns out to be annoying, it might be changed.
 

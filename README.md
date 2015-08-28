@@ -228,9 +228,23 @@ Activities include posts and tasks.
 
 ####Posts
 
-A post on Locuscraft is very similar to a post on reddit. Likewise, interests are similar to subreddits (in regard to the fact that adding an interests is like subscribing to a subreddit). Posts can be liked or disliked by users which will serve as a gauge of their popularity. They can be organized the same way as on Reddit (hot, top, rising, new, etc.). "Hot" will require an algorithm to determine what is hot. Users will be able to comment on posts as well.
+A post on Locuscraft is very similar to a post on reddit. Likewise, interests are similar to subreddits (in regard to the fact that adding an interests is like subscribing to a subreddit). Just like on Reddit, a post is simply a link to something or text (we could include media uploads too). Posts can be organized the same way as on Reddit (hot, top, rising, new, etc.). "Hot" will require an algorithm to determine what is hot. Users will be able to comment on posts as well.
 
-The key differences will be in further review and organization. 
+The key differences will be in the way posts are rated and organized. 
+
+**Rating**
+
+Reddit's upvoting and downvoting system has been criticized for [being prone to groupthink](http://www.popularmechanics.com/science/health/a9335/upvotes-downvotes-and-the-science-of-the-reddit-hivemind-15784871/) and [for being abused by its users](https://www.reddit.com/r/changemyview/comments/1wfgur/reddits_voting_system_discourages_dissent_cmv/). To address this, we must have a new system of rating. The website Slashdot has tried to address this issue with [a system of moderators](http://slashdot.org/moderation.shtml?source=autorefresh). This is an option and provides some ideas, but I believe the best solutions are the most simple and eloquent. The best system of moderation would give everyone moderation powers rather than a select few, effectively allowing all users to run Locuscraft and the internet itself, as is our goal. 
+
+Here's what we do for comments: we give all users, say ten "tokens" per day. A token can be used to like or dislike a comment. This will encourage users to think more before they like or dislike a comment. I don't know how well this would solve groupthink, but seems like it would work. Community points could be awarded for highly rated comments.
+
+Now for posts: let users rate posts in various aspects on a scale of 1 to 5 stars. User's would have to rate *specific aspects* of the post rather than giving the post itself a single rating. This would help eliminate people liking or disliking for different reasons, and it would help users understand the quality of the post in different aspects, AND could help to sort/categorize posts based on different criteria. Taking an article as an example, the user could rate it in content, interest, relevance, writing quality, references, etc. There could be a dozen criteria to rate the article in, and not all users will want to do this all the time, so users would be able to rate as many criteria as they choose. To prevent abuse of the system, community points could not be awarded. Each criteria will receive an average rating based on all user ratings in that criteria. The post itself will receive a rating based on the average of it's criteria ratings.
+
+**Organization**
+
+Posts will have a few top level categories such as funny, news, 
+
+By default, posts will be listed in order of their rating.
 
 At the top of the activity feed will be popular posts related to the user's interests. After ten posts, there will be an option to "see more" which will simply extend the page and show ten more posts. Below this option, will be the next subdivision of activity which is tasks.
 

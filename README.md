@@ -195,7 +195,7 @@ Users can earn community points by completing tasks. Community points are a meas
 
 Similar to Reddit's karma, any user will be able to see any other user's points. Therefore points could become a representation of status. To further their value, a leaderboard could keep track of users with the most points. Eventually, I would like to make points unlock actual things for the user's profile as well, such as custom skins or avatars, maybe web tools. I'm open to other ideas.
 
-Read about [Tasks](.#Tasks) below to see ways community points can be earned.
+Read about [Tasks](.####Tasks) below to see ways community points can be earned.
 
 
 **Other Points**
@@ -228,7 +228,7 @@ Activities include posts and tasks.
 
 ####Posts
 
-A post on Locuscraft is very similar to a post on reddit. Likewise, interests are similar to subreddits (in regard to the fact that adding an interests is like subscribing to a subreddit). Just like on Reddit, a post is simply a link to something or text (we could include media uploads too). Posts can be organized the same way as on Reddit (hot, top, rising, new, etc.). "Hot" will require an algorithm to determine what is hot. Users will be able to comment on posts as well.
+Posts will be the first thing to appear (by default) under the activity feed on the user's home page. A post on Locuscraft is very similar to a post on reddit in that any user can make a post on Locuscraft. Likewise, interests are similar to subreddits (in regard to the fact that adding an interests is like subscribing to a subreddit). Just like on Reddit, a post is simply a link to something or text (we could include media uploads too). Users will be able to comment on posts as well.
 
 The key differences will be in the way posts are rated and organized. 
 
@@ -242,38 +242,47 @@ Now for posts: let users rate posts in various aspects on a scale of 1 to 5 star
 
 **Organization**
 
-Posts will have a few top level categories such as funny, news, 
+By default, posts from all the user's interests will be displayed and they will be listed based on the number of ratings and value of the rating. There will be ten posts on the homepage, with an option to "see more" which will simply extend the page and show ten more posts. Below this option, will be the next subdivision of activity which is tasks.
 
-By default, posts will be listed in order of their rating.
+The user will have the option to *filter* the posts based on interest, selectively including and omitting the interests they choose. They can also filter by content, selectively including and omitting articles, videos, gifs, text, images, etc. Furthermore, they will be able to filter based on the criteria rated by users. Since this varies based on the content, it will be a subdivision of the content filter.
 
-At the top of the activity feed will be popular posts related to the user's interests. After ten posts, there will be an option to "see more" which will simply extend the page and show ten more posts. Below this option, will be the next subdivision of activity which is tasks.
+The user will also be able to *sort* the posts by newness, ratings over different times (day, week, year...), number of views, number of comments, rising (suddenly receiving lots of ratings), and maybe some other criteria.
+
+Users can go to the entry page for one of their interests and filter and sort posts within that interest in the same fashion.
 
 ####Tasks
 
-Tasks must be encouraged to get users to really contribute to Locuscraft. Next to Tasks, it will say "Contribute to your interests!" or something like that.
+All tasks require the completion of some sort of work on the part of the user. Tasks come in two forms: community tasks and personal tasks.
 
-Users will automatically have tasks based on their interests. It will be a constant feed, that is constantly updated just like posts.
+*Community Tasks*
 
-Tasks will vary based on the entry they are associated with, but examples include surveys, linking web addresses to entries, adding descriptions to entries, answering user questions (to the best of their ability), being active in forums, etc. You might ask, how can we know if a user is being honest on these tasks and not just farming for points or trolling? We can ensure points are only awarded to honest users by having other users in the community check their answers. This, itself, will be another community task, to check users and ensure that they gave an actual response, or linked an actual website, or wrote an actual description.
+Community tasks are have a few similarities to posts. Like posts community tasks are always associated with a specific entry/interest. They also have their own feed on the activity feed like posts. 
+
+They are different from posts in that they contribute to other users of Locuscraft, rather than to the entertainment or knowledge of the individual. You could call this the "build" part of the Locuscraft motto. To compensate users for completing tasks and doing their part, community points are awarded to the user.
+
+Community tasks will vary based on the entry they are associated with, but examples include surveys, linking web addresses to entries, adding descriptions to entries, answering user questions (to the best of their ability), being active in forums, etc. You might ask, how can we know if a user is being honest on community tasks and not just farming for points or trolling? We can ensure points are only awarded to honest users by having other users in the community check their answers (user moderation powers). This, itself, will be another community task, to check users and ensure that they gave an actual response, or linked an actual website, or wrote an actual description.
+
+Community tasks will be sorted by importance or urgency by default. *There will likely be other ways to sort them, but I haven't figured this out yet.*
+
+*Personal Tasks*
+
+These tasks are created by the individual user and for the individual user's own reasons. Being personal, they obviously don't award community points. Personal tasks are basically like a to-do list but with additional fields/features to help the user keep up with their "to-dos".
 
 There will be an option at the top right corner of every task saying “Not now”. If the task is marked as urgent, or if the due date is upcoming soon, a warning message will appear notifying them and they will have two options: “I know” (continue) or “Okay, I’ll do it”. If this turns out to be annoying, it might be changed.
 
-
-Long-term Tasks
 
 Tasks on the task feed should be sortable in many different ways. Think of how you can sort posts on Reddit, i.e. by hot, top, rising, controversial, etc.
 
 Every now and then, the task feed will have a suggestion for the user based on their other interests. It could be a suggestion to look at an entry, to add a goal, or to change a setting. It could be anything.
 
-###Craft your Locus
 
-Here is where Locuscraft will learn about the user and make suggestions.
 
-###I Want...
-####To ask a question
 
-####To buy a product
-Criteria...
+
+
+
+
+**Product Criteria**
 
 “How much money are you willing to spend?” “Which of the following criteria are important? Functionality, looks, price, …” The website could then ask them to research vacuums online, find the one they want, and copy and paste the link onto their profile. Then this person will have a list labelled “Things I Need”. Under this list will be a vacuum along with a link to the one they chose. Completing a series of questions/tasks like this will give them a good amount of points.
 

@@ -83,8 +83,6 @@ Just me for the time being.
 
 # More about my Plan
 
-Note that this is a bit outdated. I am working on writing the updated plan.
-
 ##Entries
 
 Locuscraft entries are similar in nature to a Wikipedia entry. What is meant by entry is simply a subject/article/category of information, such as an entry about apples. Wikipedia was a revolutionary creation for the internet. It made paper encyclopedias obsolete with its plethora of encyclopedia based knowledge that its users, not the Wikimedia Foundation, added to the website. What can Locuscraft use from Wikipedia's example? What can Locuscraft bring to the table? 

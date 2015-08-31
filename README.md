@@ -215,9 +215,13 @@ The rest of the navigation bar is dependent on the functionality of Locuscraft. 
 * Knowledge 
 * Wealth (Donate to us or to charity)
 
-##User Profile/Home
+##User Profile/Homepage
 
-Picture the user profile as you would a Facebook Profile. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft user profile, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and contributing to the internet (tasks). New users’ homes will display suggestions for where they should start.
+Picture the user profile and homepage as you would Facebook's. On Facebook, the user can add interests to their profile. The user can subscribe to a page and see posts made from another user/organization. The user sees an "activity feed" of all their friends and subscriptions. All of this is similar to the Locuscraft, except instead of being centered around other users, socializing, and status, the Locuscraft profile will be centered around interests, goals, and contributing to the internet (tasks). New users’ homes will display suggestions for where they should start.
+
+###Profile Page
+
+This will display everything related to the user. This includes their points, their interests, their contributions, their tasks, their history, their statistics, and anything else I missed.
 
 ###Points
 
@@ -284,7 +288,24 @@ Community tasks have a few similarities to posts. Like posts community tasks are
 
 They are different from posts in that they contribute to other users of Locuscraft, rather than to the entertainment or knowledge of the individual. You could call this the "build" part of the Locuscraft motto. To compensate users for completing tasks and doing their part, community points are awarded to the user.
 
-Community tasks will vary based on the entry they are associated with, but examples include surveys, linking web addresses to entries, adding descriptions to entries, answering user questions (to the best of their ability), being active in forums, etc. You might ask, how can we know if a user is being honest on community tasks and not just farming for points or trolling? We can ensure points are only awarded to honest users by having other users in the community check their answers (user moderation powers). This, itself, will be another community task, to check users and ensure that they gave an actual response, or linked an actual website, or wrote an actual description.
+Community tasks will vary based on the entry they are associated with, but examples include:
+
+* Complete surveys
+* Categorize websites by linking them to entries
+* Add descriptions to entries
+* Answer user questions
+* Be active in forums
+* Help create buying guides, how-to guides, or learning guides (or linking guides)
+* Participate in opinion polls
+* Review answers
+ 
+We want people to express their opinion as much as possible too. That includes hearing what people like and dislike. We could have people make lists of their favorite things, or of their least favorite things, and combine them to see what the average global consensus is on something.
+
+You might ask, how can we know if a user is being honest on community tasks and not just farming for points or trolling? There are a few measures we can take to validate answers:
+
+* Spellcheck to make sure real words were used
+* Having other users in the community check their answers. This, itself, could be another community task, to check users and validate that they gave an actual response, or linked an actual website, or wrote an actual description.
+* There could just be a system of ratings whereby good contributions are visible and poor contributions are buried.
 
 Community tasks will be sorted by importance or urgency by default. *There will likely be other ways to sort them, but I haven't figured this out yet.*
 
@@ -292,7 +313,7 @@ Community tasks will be sorted by importance or urgency by default. *There will 
 
 My Tasks are unlike posts and community goals in that they aren't subscribed to, but are instead created by the user for individual reasons. Being personal, they don't award community points. These tasks can be short-term or long-term. They include the user's daily to-do's as well as their long-term goals in life. 
 
-The user's goals can be display personal tasks on their homepage in timeline format or in list format. Typically it will be displayed in order of which one needs to be completed soonest, but it can be sorted or filtered like posts/community tasks.
+The user's personal tasks can be displayed on their homepage in timeline format or in list format. Typically it will be displayed in order of which one needs to be completed soonest, but it can be sorted or filtered like posts/community tasks.
 
 Each task has a variety of entry fields, tools, and settings that can be customized to fit the task. Our goal in designing My Tasks is to give the user as many tools as possible to assist them in completing that goal, so this list will surely be lengthened.
 
@@ -300,37 +321,42 @@ Entry fields include:
 
 * Title
 * Any number of text fields (description, commentary, notes, logs) which may be listed and have nested lists.
-* Resources (links, interests, uploads, related tasks)
+* Resources (links, interests, uploads, related tasks/posts)
 
 Settings and tools include:
 
 * Priority
 * Urgency
-* Recurrence
+* Start time
 * Deadline/expiration/end time
+* Recurrence or multiple specific timeframes
 * Reminders
+* Specific tools such as calculators, generators, free design software
+
+Tasks and sub-tasks can be marked by the user as not started, in progress, incomplete, or complete.
 
 Tasks can also be organized into separate lists, and the list given a name, to group tasks together. For example one may want to make a list of goals, or a to-do list.
 
-An example of a personal task could be to learn more about carpentry. Therefore the user could link the carpentry entry to their goal, add carpentry to their interests, and when they do carpentry activities, they will learn about carpentry and work towards their goal. Likewise a goal can include tasks and *any* task can be included in a goal.
+An example of a personal task could be to learn more about carpentry. It's title would be "Learn more about carpentry". The user could find the carpentry entry on locuscraft and link it to the task as a resource. They could have the Carpentry activity feed be displayed under the task. They could link specific videos or websites as well. They can write a description detailing specifically what they know and want to learn. They can set a timeframe to work on this the following day from 10 AM to 11:30 AM and recurring every day after for a week. They could create sub-tasks for each day that must be completed in order, such as watch these videos, then build this, then build that. The user could share their task by posting it on Carpentry. It may not get any hits, but who knows? The user could go a step further by helping create a step-by-step learning guide under Carpentry, and earn community points in the process.
 
-Locuscraft will also give suggestions to the user to give them ideas. For example one suggested goal could be to "write in your journal every day". The user can simply click "add to goals" then go to the goal and tweak it to their own tastes. Locuscraft can even provide a tool for the user to write in an online journal and keep up with their daily activities and journal entries. 
+Locuscraft will also give suggestions to the user to give them ideas. Here's some examples we might suggest:
 
-Some other examples:
-
+* Create a daily journal.
 * Add birthdays to your calendar.
-* Make a list of personal goals
-	List things you think you should be doing every day. Example:
-•	Work 8 hours
-•	Exercise for 45 minutes
-•	Cook
-•	Meditate for 15 minutes
-•	Write in my journal
-•	Craft my locus for 30 minutes (answer questions or complete tasks on Locuscraft)
-•	Watch one show
-•	Play video games for 1 hour
-•	Sleep for 7.5 hours
-o	Projects/Long-term tasks. 
+* Make a list of personal goals.
+* List your ideal daily routine. (Give examples too)
+* Try cooking some highly rated recipes! (Recipes can be added as tasks)
+* Create a daily exercise routine.
+* Create a daily meditation task.
+* Work on a diet regimen! (Link to a guide)
+
+###Customization
+
+The user will be able to organize the layout of their homepage. This means they will be able to move My Tasks, Posts, tools, and other things around on the page.
+
+In addition they will be able to customize the format to some extent. I'm thinking the colors, background images, and perhaps the font. There could also be avatar pictures, maybe? These could be integrated as rewards for certain amounts of community points.
+
+This part is not well established yet because it is low on the list of priorities.
 
 ##Privacy
 
@@ -340,80 +366,6 @@ At the same time however, there is a lot of information that could be beneficial
 
 We will have to write a privacy policy, and my legalese is pretty bad. Any takers?
 
-
-
-These will be tasks that take a while to complete, that cannot be completed in one day, or that have multiple sub-tasks. Some examples of this might be:
-	Fix lawn mower
-	Create diet regimen
-	List things to do around the house
-o	What’s Popular Today
-o	Browse
-	Categories
-	Recommended
-•	My Profile
-o	My Goals
-The user will be able to view their current goals, add to them, or change them here.
-o	My Interests
-The user will be able to view a list of topics they are interested. These will be categories listed on the website and subscribe them to these categories.
-o	Information about me
-This will list questions the user has answered. The user will be able to edit their answers. They will be listed in a format such as:
-Favorite color:	Blue
-Favorite movies:
-•	2001
-•	Blade Runner
-•	Pokémon
-•	Ask a question/Set a task (Ask the public?)
-•	Search
-•	Browse
-o	The World’s Favorites (basic information about Locuscraft users)
-	Favorite Colors (e.g. 32% blue, 24% green, etc.)
-	Favorite Shows
-	Favorite Restaurants
-o	Shopping Guides (browse reviews of products, see recommendations, etc.)
-o	Public Opinion
-Organized by:
-	Hot (like Reddit’s formula)
-	Top
-	New
-	Random
-•	About Locuscraft
-
-Tasks
-Tasks will vary in many different ways. A user should be able to put any task they please, however in order to receive points for completing a task, the task will probably need to be in Locuscraft’s database.
-Tasks will have different states. Possible states:
-•	Not started
-•	In Progress
-•	Complete
-•	Removed (?)
-•	Failed (?)
-Tasks might be measured in different ways, such as:
-•	Timed - a timer will start once a page or file is open and continue timing while it is open. Once the timer run outs, the task will be marked as complete.
-•	A certain number of words must be written
-•	A certain number of list items must be given
-•	A certain answer may need to be given
-•	Any answer must be given
-•	A “finished” bit sent by third-party tasks
-To prevent people from cheating, certain measures must be taken. People need to be honest in order for the site to be a good source of information. One way of enforcing this is to spell check all text and make sure all words are in their dictionary. In case there are real words that aren’t in their dictionary, they will have the option of adding the word still. When people just type gibberish though, it will be more of a pain to type gibberish than to write something coherent.
-Another way to prevent cheating is to have other people read their answers and validate that they make since in context to the question. This could be tricky.
-
-
-
-
-The two main focuses of Locuscraft
-Your Locus
-Your Locus is the part of Locuscraft that centers around your life, your personality, your interests, and your goals. Here you have full control over what Locuscraft does for you. Your Locus consists of: 
-•	Goals: Set Goals you want to accomplish in your real life. 
-•	Interests
-•	Tasks
-•	Customization
-The Community
-The Community is where we make use of the collective brainpower and opinions of everyone. This is where we will shape the internet to become a truly useful place for all human beings. The Community consists of:
-•	Opinion: There will be polls on everything whether its about current events, companies, policies, or simply what you want, we all want to know what everyone really thinks!
-•	Categorization: This is where we will really organize the information on the internet, bringing together all related information in a wiki style of organization.
-•	Reviews
-
-
-
-Users will have the option of sharing their information publicly, rather than anonymously, and entering a leaderboard that displays which users have collected the most points in various categories. Other users will be able to look at the profiles of users set to publicly share their information similar to Facebook’s privacy settings.
+##Other Notes
 
 To make use of the plethora of information already available on the internet, I think it will be important to partner with other websites and organizations to make their resources available to Locuscraft users. For example Khan Academy could be one such website that could help users complete tasks relating to subjects on their website.

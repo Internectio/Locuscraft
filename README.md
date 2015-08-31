@@ -308,7 +308,7 @@ You might ask, how can we know if a user is being honest on community tasks and 
 
 Community tasks will be sorted by importance or urgency by default. *There will likely be other ways to sort them, but I haven't figured this out yet.*
 
-####My Tasks
+#####My Tasks
 
 My Tasks are unlike posts and community goals in that they aren't subscribed to, but are instead created by the user for individual reasons. Being personal, they don't award community points. These tasks can be short-term or long-term. They include the user's daily to-do's as well as their long-term goals in life. 
 

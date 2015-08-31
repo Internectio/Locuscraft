@@ -104,7 +104,7 @@ Take a look at the [entry for Apple on Wikipedia](https://en.wikipedia.org/wiki/
 
 All of this vast amount of information for each entry needs to be well organized, and the user should be able to further organize, or filter the information the way they want. Each division/bullet point should be orderable in different ways (similar to how posts on Reddit can be ordered), where appicable, such as: newest; "hot"; top posts by hour, day, week, month, year; rising, etc. There will also be a search bar which allows you to quickly search for information within the subject.
 
-##Categorization
+###Categorization
 
 Locuscraft should very much be a place of discovery. The first word in our motto is "learn". If you don't discover new information, then your learning is limited to things you already know about. Google is amazing and makes good information on the internet findable. The problem is, you have to know, or at least have an idea of what it is you are searching for. 
 
@@ -116,32 +116,50 @@ Products > Patio, Lawn, & Garden > Lawn Mowers & Outdoor Power Tools > Chainsaws
 
 This is actually how you would find a chainsaw on Amazon.com.
 
-###Top-Level Categories
+####Top-Level Categories
 
-There is so much information on the internet. How can we possibly categorize it all? Well it isn't hard if we make it broad enough. I have come up with the following top-level categories:
+There are three top-level categories at this time: Subjects, Products, and Sponsored.
 
-* Subjects - These include basically anything you would find on Wikipedia, minus any articles about a specific product. It could be people, places, ideas, companies, etc. These entries will include information laid out in a similar way to the apple example above.
-* Products - These would be basically anything you would find on Amazon. They will be laid similarly to subjects but with more of a focus on the quality of the product, where to buy the product, reviews on the product, etc. They will include something similar to the following:
-  * Basic, need-to-know, information about the product, followed by an expandable section of additional, useful, common and uncommon information about the product, followed by the best places (websites) on the internet to learn more about the product.
-  * Latest news on the product if applicable.
-  * A list of subjects related to the product
-  * Videos, pictures, and other multimedia of the product found on the internet.
-  * Locuscraft user statistics relating to the product (users' preferences on the category of products, number of users with an interest in that product, etc.)
-  * User created tasks (more about tasks below) for the subject (such as write a review about the product, answer a poll of where you buy products in a category, etc.).
-  * A list outlets that sell the product, ordered by cheapest, most reliable, most consumers, etc.
-  * Reviews on the product, including reviews from other websites.
-  * Buying guides for the product. Using vacuums as an example, you should be able find the best vacuums in different price tiers, with different functions, reliability, durability, portability, etc.
-  * The ability to add the product to your interests.
+#####Subjects
+
+These include basically anything you would find on Wikipedia, minus any articles about a specific product. It could be people, places, ideas, companies, etc. These entries will include information laid out in a similar way to the apple example above.
+
+#####Products
+
+These would be basically anything you would find on Amazon. They will be laid similarly to subjects but with more of a focus on the quality of the product, where to buy the product, reviews on the product, etc. They will include something similar to the following:
+
+* Basic, need-to-know, information about the product, followed by an expandable section of additional, useful, common and uncommon information about the product, followed by the best places (websites) on the internet to learn more about the product.
+* Latest news on the product if applicable.
+* A list of subjects related to the product
+* Videos, pictures, and other multimedia of the product found on the internet.
+* Locuscraft user statistics relating to the product (users' preferences on the category of products, number of users with an interest in that product, etc.)
+* User created tasks (more about tasks below) for the subject (such as write a review about the product, answer a poll of where you buy products in a category, etc.).
+* A list outlets that sell the product, ordered by cheapest, most reliable, most consumers, etc.
+* Reviews on the product, including reviews from other websites.
+* Buying guides for the product. Using vacuums as an example, you should be able find the best vacuums in different price tiers, with different functions, reliability, durability, portability, etc.
+* The ability to add the product to your interests.
 
   Locuscraft will hopefully become a source for unbiased product reviews and buying guides for any and all products. Product entries will be different than subject entries, as they will be focused on the quality of the product, sources of the product, reviews of the product, etc.
   
-* Sponsored - This could be a good source of revenue for Locuscraft. I'm sure some organizations or communities would like to create their own entries that target their consumers or members. These organizations would have full control over their entries including the tasks, what Locuscraft users can change or add to the entry, forums, and anything else associated with entries. There would be different price tiers, each tier changing the visibility of the entry to Locuscraft users. As an example, say McDonald's buys a sponsored entry. Users can then earn points by completing McDonald's tasks which might include a survey of what people think of McDonald's food. This could be an unbiased source of data about consumers and their opinons of McDonalds.
+#####Sponsored
 
-###Low-Level Categories
+I've included this category as a potential source of revenue for Locuscraft. 
+
+Some organizations, communities, or individuals would surely like to create their own entries that target their consumers, members, or anyone else; or maybe they want to make a personal entry just for fun. For whatever reason, these groups/individuals will be able to buy a sponsored entry. Names for sponsored entries must be approved in order to confirm the individual/group has the right/trademark to that name (maybe?).
+
+Sponsored entries come with their own perks that other entries do not. Sponsored entries will be linked to a locuscraft account, and that account will have admin like privileges over that entry. These privileges include full control over the tasks; whether the entry is open to the public or requires private membership; what Locuscraft users can change or add to the entry, or forums; and anything else associated with entries.
+
+There will be different price tiers, each tier changing the visibility of the entry to Locuscraft users (though views and ratings are the greatest factor for visibility). Since sponsored entries could become a source of misinformation or advertisement, they will only be visible in certain places. They will not be mixed in with posts and tasks unless a user subscribes to the sponsored entry. Sponsored entries can be found under navigation pages, certain categories, certain sorts/filters like highest rated (if it has a high rating), and possibly at the bottom of the users' homepage under its own heading by default (they'll be able to change what's displayed on their homepage). User's will only be able to subscribe to their posts and tasks if it doesn't require membership or if they are a member.
+
+As an example, say McDonald's buys a sponsored entry and they make it publicly accessible. They could create tasks that give them information about their consumers, such as surveys. Users can then earn community points by completing McDonald's tasks.
+
+I consider sponsored entries to be somewhat low on the list of priorities. Subject and product entries should certainly be finished first.
+
+####Low-Level Categories
 
 These will be applied with tags, like people might put keywords for a photo. With the apple example, it would be tagged with fruit, food, plant, tree, cooking etc. 
 
-###Mid-Level Categories
+####Mid-Level Categories
 
 These can also be applied to an entry with tags. With the apple example, food and plant are mid-level categories since they have lower-level categories like fruit and tree below them.
 
@@ -154,11 +172,11 @@ The navigation bar is critical to Locuscraft's user friendliness. It must be int
 
 The navigation bar at the very least will have the "home" link to the Locuscraft front page, and a search bar. The search bar could have a category drop down to search by category (like Amazon's search by department).
 
-The rest of the navigation bar is dependent on the functionality of Locuscraft. There needs to be a way to browse Locuscraft's entries in a variety of ways i.e. by category, popularity, featured, etc. There's products, subjects, and sponsored. Most people aren't going to want to look through sponsored so it can be excluded. 
+The rest of the navigation bar is dependent on the functionality of Locuscraft. There needs to be a way to browse Locuscraft's entries in a variety of ways i.e. by category, popularity, featured, etc. There's products, subjects, and sponsored.
 
 **Discover**
 
-* Subjects >
+* Subjects
 
   * [Wikipedia Category Structure](https://en.wikipedia.org/wiki/Portal:Contents/Categories) or [Web Directory Structure](http://botw.org/)
   * Hot
@@ -167,7 +185,7 @@ The rest of the navigation bar is dependent on the functionality of Locuscraft. 
   * Random
   * Featured
 	
-* Products >
+* Products
   * [Amazon Category Structure](http://www.amazon.com/gp/site-directory/ref=nav_shopall_fullstore)
   * Most Purchased
   * Most Viewed
@@ -175,7 +193,9 @@ The rest of the navigation bar is dependent on the functionality of Locuscraft. 
   * Recommended
   * Highest Reviews
   * Featured
+  * Buying Guide
 
+*Sponsored
 * Entertainment
 * News
 * Tools
@@ -222,25 +242,17 @@ Say one of the user's interests is funny stuff, they can add "comedy" to their i
 
 New accounts will have a few default interests that everyone starts with, including comedy, similar to the way new Reddit users start with default subreddit subscriptions.
 
-###Goals
-
-Remember that Locuscraft is effectively a life organizer for the individual user, and everyone has some goals in life. Goals are included in Locuscraft so we can help the user stay focused, remind them of their goals, and help them accomplish their goals.
-
-Goals are separate from activies, and therefore can't simply be subscribed to. However a goal may include some activity, which can be linked to the goal. For example the goal could be to learn more about carpentry, therefore the user could link the carpentry entry to their goal, add carpentry to their interests, and when they do carpentry activities, they will learn about carpentry and work towards their goal. Likewise a goal can include tasks and any task can be included in a goal.
-
-The user's goals will be in list format, and each goal will have a variety of entry fields and features that can be associated with them. The user will be able to control things like the goal's priority, urgency, recurrence, timeline, resources (links, interests, uploads, etc.), related tasks, reminders, and so on. Our goal in designing goals is to give the user as many tools as possible to assist them in completing that goal.
-
-Locuscraft will also suggest goals to the user to give them ideas. For example one suggested goal could be to "write in your journal every day". Locuscraft can even provide a tool for the user to write in an online journal and keep up with their daily activities and journal entries. 
-
 ###Activity Feed
 
 The activity feed is the medium through which the user will do things on Locuscraft/the internet in a personalized and exploratory way. Activies in the activity feed will be a reflection of their interests. The activies can be filtered and sorted in various ways including most popular, highest rated, newest, and other more specific ways depending on the activity and category.
+
+There will be periodic suggestions in the activity feed to give the user ideas or other things they might be interested in. This can be turned of in their settings.
 
 Activities include posts and tasks.
 
 ####Posts
 
-Posts will be the first thing to appear (by default) under the activity feed on the user's home page. A post on Locuscraft is very similar to a post on reddit in that any user can make a post on Locuscraft. Likewise, interests are similar to subreddits (in regard to the fact that adding an interests is like subscribing to a subreddit). Just like on Reddit, a post is simply a link to something or text (we could include media uploads too). Users will be able to comment on posts as well.
+Posts will be the first thing to appear (by default) under the activity feed on the user's home page. A post on Locuscraft is very similar to a post on reddit in that any user can make a post on Locuscraft. Likewise, interests are similar to subreddits (in regard to the fact that adding an interests is like subscribing to a subreddit). Just like on Reddit, a post is simply text or a link to something (we could include media uploads too). Users will be able to comment on posts as well.
 
 The key differences will be in the way posts are rated and organized. 
 
@@ -250,7 +262,7 @@ Reddit's upvoting and downvoting system has been criticized for [being prone to 
 
 Here's what we do for comments: we give all users, say ten "tokens" per day. A token can be used to like or dislike a comment. This will encourage users to think more before they like or dislike a comment. I don't know how well this would solve groupthink, but seems like it would work. Community points could be awarded for highly rated comments.
 
-Now for posts: let users rate posts in various aspects on a scale of 1 to 5 stars. User's would have to rate *specific aspects* of the post rather than giving the post itself a single rating. This would help eliminate people liking or disliking for different reasons, and it would help users understand the quality of the post in different aspects, AND could help to sort/categorize posts based on different criteria. Taking an article as an example, the user could rate it in content, interest, relevance, writing quality, references, etc. There could be a dozen criteria to rate the article in, and not all users will want to do this all the time, so users would be able to rate as many criteria as they choose. To prevent abuse of the system, community points could not be awarded. Each criteria will receive an average rating based on all user ratings in that criteria. The post itself will receive a rating based on the average of it's criteria ratings.
+Now for posts: let users rate posts in various aspects on a scale of 1 to 5 stars. User's would have to rate *specific aspects* of the post rather than giving the post itself a single rating. This would help eliminate people liking or disliking for different reasons, and it would help users understand the quality of the post in different aspects, *and* could help to sort/categorize posts based on different criteria. Taking an article as an example, the user could rate it in content, interest, relevance, writing quality, references, etc. There could be a dozen criteria to rate the article in, and not all users will want to do this all the time, so users would be able to rate as many criteria as they choose. To prevent abuse of the system, community points could not be awarded. Each criteria will receive an average rating based on all user ratings in that criteria. The post itself will receive a rating based on the average of it's criteria ratings.
 
 **Organization**
 
@@ -264,11 +276,11 @@ Users can go to the entry page for one of their interests and filter and sort po
 
 ####Tasks
 
-All tasks require the completion of some sort of work on the part of the user. Tasks come in two forms: community tasks and personal tasks.
+All tasks require the completion of some sort of work on the part of the user. Tasks come in two forms: community tasks and goals.
 
-*Community Tasks*
+#####Community Tasks
 
-Community tasks are have a few similarities to posts. Like posts community tasks are always associated with a specific entry/interest. They also have their own feed on the activity feed like posts. 
+Community tasks have a few similarities to posts. Like posts community tasks are always associated with a specific entry/interest. They also have their own feed on the activity feed like posts, and will be sortable/filterable. 
 
 They are different from posts in that they contribute to other users of Locuscraft, rather than to the entertainment or knowledge of the individual. You could call this the "build" part of the Locuscraft motto. To compensate users for completing tasks and doing their part, community points are awarded to the user.
 
@@ -276,61 +288,38 @@ Community tasks will vary based on the entry they are associated with, but examp
 
 Community tasks will be sorted by importance or urgency by default. *There will likely be other ways to sort them, but I haven't figured this out yet.*
 
-*Personal Tasks*
+####My Tasks
 
-These tasks are created by the individual user and for the individual user's own reasons. Being personal, they obviously don't award community points. Personal tasks are basically like a to-do list but with additional fields/features to help the user keep up with their "to-dos".
+My Tasks are unlike posts and community goals in that they aren't subscribed to, but are instead created by the user for individual reasons. Being personal, they don't award community points. These tasks can be short-term or long-term. They include the user's daily to-do's as well as their long-term goals in life. 
 
-There will be an option at the top right corner of every task saying “Not now”. If the task is marked as urgent, or if the due date is upcoming soon, a warning message will appear notifying them and they will have two options: “I know” (continue) or “Okay, I’ll do it”. If this turns out to be annoying, it might be changed.
+The user's goals can be display personal tasks on their homepage in timeline format or in list format. Typically it will be displayed in order of which one needs to be completed soonest, but it can be sorted or filtered like posts/community tasks.
 
+Each task has a variety of entry fields, tools, and settings that can be customized to fit the task. Our goal in designing My Tasks is to give the user as many tools as possible to assist them in completing that goal, so this list will surely be lengthened.
 
-Tasks on the task feed should be sortable in many different ways. Think of how you can sort posts on Reddit, i.e. by hot, top, rising, controversial, etc.
+Entry fields include:
 
-Every now and then, the task feed will have a suggestion for the user based on their other interests. It could be a suggestion to look at an entry, to add a goal, or to change a setting. It could be anything.
+* Title
+* Any number of text fields (description, commentary, notes, logs) which may be listed and have nested lists.
+* Resources (links, interests, uploads, related tasks)
 
+Settings and tools include:
 
+* Priority
+* Urgency
+* Recurrence
+* Deadline/expiration/end time
+* Reminders
 
+Tasks can also be organized into separate lists, and the list given a name, to group tasks together. For example one may want to make a list of goals, or a to-do list.
 
+An example of a personal task could be to learn more about carpentry. Therefore the user could link the carpentry entry to their goal, add carpentry to their interests, and when they do carpentry activities, they will learn about carpentry and work towards their goal. Likewise a goal can include tasks and *any* task can be included in a goal.
 
+Locuscraft will also give suggestions to the user to give them ideas. For example one suggested goal could be to "write in your journal every day". The user can simply click "add to goals" then go to the goal and tweak it to their own tastes. Locuscraft can even provide a tool for the user to write in an online journal and keep up with their daily activities and journal entries. 
 
+Some other examples:
 
-
-**Product Criteria**
-
-“How much money are you willing to spend?” “Which of the following criteria are important? Functionality, looks, price, …” The website could then ask them to research vacuums online, find the one they want, and copy and paste the link onto their profile. Then this person will have a list labelled “Things I Need”. Under this list will be a vacuum along with a link to the one they chose. Completing a series of questions/tasks like this will give them a good amount of points.
-
-
-##Privacy
-
-Users will have the option of sharing their information with the world (info can be shared anonymously) or keep their information absolutely private. A simple and honest privacy policy will need to be created.
-
-Options:	Share with the World!		Don't share.
-
-		 /                 \
-		 
-        Share anonymously      Share openly
-
-
-
-
-Site Navigation
-Possible Organization of the Homepage:
-o	Daily Tasks
-These will be fully customizable by the user. They can be completed in a short amount of time, completed on a daily basis or regular basis, or are scheduled for the current day. Locuscraft will have a database of tasks for the user to choose from. For specific tasks that have not yet been created in the database, users will be able to create their own and set it's parameters. For some of them, progress will be measurable in some way. For others, they will simply be set as completed or incomplete. Regular Basis Examples:
-	Answer profile questions.
-	Voice my opinion. Answer top survey questions; could be based on subscribed categories; could be random.
-	Watch a video on Khan Academy. This could be checked off after linking to Khan Academy or perhaps profile information from Khan Academy could be sent to Locuscraft through a partnership.
-	Look on Reddit for 20 minutes. Locuscraft will set a timer then alert after 20 minutes.
-	Watch the news. Users will be able to link their favorite news source.
-	Add a task (find tasks - this will be similar to the way Facebook finds music or movies to add to your profile. Other users will have tasks and in order to link public tasks that are the same, users will select tasks from a list or create a completely new one.)
-
-If the user has not added any tasks yet, Locuscraft will make suggestions for where they should start. Some examples:
-	Make a calendar
-•	Either link an existing calendar or create a new one
-•	Add important birthdays to remember
-•	If you are in school do you have homework due dates or upcoming exams?
-•	If you are working, do you have jobs to complete?
-	Make a list of personal goals
-	Start a journal
+* Add birthdays to your calendar.
+* Make a list of personal goals
 	List things you think you should be doing every day. Example:
 •	Work 8 hours
 •	Exercise for 45 minutes
@@ -342,6 +331,17 @@ If the user has not added any tasks yet, Locuscraft will make suggestions for wh
 •	Play video games for 1 hour
 •	Sleep for 7.5 hours
 o	Projects/Long-term tasks. 
+
+##Privacy
+
+Privacy is extremely important for a website like this. Users need to feel secure in knowing the vast amount of information Locuscraft stores about them is not going to be shared with anyone, unless they themselves share it.
+
+At the same time however, there is a lot of information that could be beneficial to the world. Statistical type information mainly. This information can be collected anonymously however. 
+
+We will have to write a privacy policy, and my legalese is pretty bad. Any takers?
+
+
+
 These will be tasks that take a while to complete, that cannot be completed in one day, or that have multiple sub-tasks. Some examples of this might be:
 	Fix lawn mower
 	Create diet regimen

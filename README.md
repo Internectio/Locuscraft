@@ -1,6 +1,16 @@
 # What is Locuscraft?
-1. **A central internet community.** Locuscraft is a means for all internet users in the world to browse, sort, rate, and review websites and information on the internet. 
-2. **A home for the individual internet user.** Locuscraft is also a means for individual users to personalize their internet experience, based on their own goals and interests, through a central, customized, user internet profile. 
+
+Locuscraft has two parts: the collaborative, and the individual.
+
+**The Collaborative**
+
+Locuscraft is a website where all internet users in the world can organize and review - in all regards - the information on the internet. The goal is to create a captivating, engaging, and streamlined user interface whereby anyone can contribute, and *everyone* will want to.
+
+**The Individual**
+
+Locuscraft is a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
+
+Locuscraft is not unlike a combination between some of the internet giant's we already know. Reddit, Wikipedia, Facebook, Amazon. While I may not fully support them all, they all play an undeniable part in our lives. 
 
 We live in a world of corporations where money runs everything, and whomever has the most money has the most control. Control over our opinions, what we buy, what our values our. It's time we make our own decisions. The world may be run by corporations, but the internet can be run by us. Locuscraft is the solution.  
 

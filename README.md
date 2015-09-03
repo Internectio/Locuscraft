@@ -1,24 +1,26 @@
 # What is Locuscraft?
 
-Locuscraft has two parts: the collaborative, and the individual.
+I'll try to explain it as concisely as I can. Locuscraft has two parts: the community, and the individual.
 
-**The Collaborative**
+**The Community:** Locuscraft is a website where all internet users in the world can collaborate together to organize and review the information on the internet. The goal is to create a captivating, engaging, and streamlined user interface whereby anyone can contribute, and *everyone* will want to.
 
-Locuscraft is a website where all internet users in the world can organize and review - in all regards - the information on the internet. The goal is to create a captivating, engaging, and streamlined user interface whereby anyone can contribute, and *everyone* will want to.
+**The Individual:** Locuscraft is a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
 
-**The Individual**
+Locuscraft builds upon some of the great internet inventions we all know. Reddit's subreddits and posts, Wikipedia's wikis, the internet user profile, Amazon's categorization. By combining all of them together, we can create a unified, innovative, and truly entertaining internet experience that synergizes our common goals with our individual needs.
 
-Locuscraft is a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
+In addition, Locuscraft will allow users to review anything easily. This will allow *everyone* to: gauge public opinion, find the truly best products (and therefore improve the quality of products), and have quality sources of information. Locuscraft will also: have guides for learning or building anything, allow collaboration on anything, be incredibly ease to use, and have unlimited individual personalization. 
 
-Locuscraft is not unlike a combination between some of the internet giant's we already know. Reddit, Wikipedia, Facebook, Amazon. While I may not fully support them all, they all play an undeniable part in our lives. 
+To top it all off, Locuscraft will be **Open source**, **ad-free**, and have an **honest and user centered privacy policy**. 
 
-We live in a world of corporations where money runs everything, and whomever has the most money has the most control. Control over our opinions, what we buy, what our values our. It's time we make our own decisions. The world may be run by corporations, but the internet can be run by us. Locuscraft is the solution.  
+Locuscraft isn't just going to be another website. We aim to bring out the true potential of the internet - a website of the internet users, by the internet users, and for the internet users. 
 
-There have already been great strides in the internet world with websites like Wikipedia, Reddit, and Khan Academy to name a few. Locuscraft builds on their example. Open source, no ads - period, an honest and user centered privacy policy, user reviews of everything on the internet, opinion polls... on everything, guides... on everything, collaboration on anything, incredible ease of use, unlimited individual personalization of profiles. Locuscraft can be - and will be - a website of the internet users, by the internet users, and for the internet users.
+# Why Locuscraft?
 
-Locuscraft's motto is "Learn. Build. Share." because this is what humans do (or should do). We learn, we use that knowledge to build something, we share our knowledge and creations to make the world better. In our incorporated world everything is jacked up. We learn what's in a select fews' best interests, we build what's in their interest, and we don't share unless people pay. Well we can change the status quo if we work together on Locuscraft.
+We live in a world of corporations where money runs everything, and whomever has the most money has the most control. Control over our opinions, what we buy, what our values are. It's time we make our own decisions. The world may be run by corporations, but the internet can be run by us. Locuscraft is the solution.  
 
-By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
+Locuscraft's motto is "Learn. Build. Share." because this is what humans do (or should do). We learn, we use that knowledge to build something, and we share our knowledge and creations to make the world better. In our incorporated world everything is jacked up. We learn what's in a select fews' best interests, we build what's in their interest, and we don't share unless people pay. Well we can change the status quo if we work together on Locuscraft.
+
+You may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
 
 # Who am I?
 

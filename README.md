@@ -1,6 +1,6 @@
 # What is Locuscraft?
 
-I'll try to explain it as concisely as I can. Locuscraft has two parts: the community, and the individual.
+Locuscraft has two parts: the community, and the individual.
 
 **The Community:** Locuscraft is a website where all internet users in the world can collaborate together to organize and review the information of the internet. The goal is to create a captivating, engaging, and streamlined user interface whereby anyone can contribute, and *everyone* will want to.
 
@@ -26,11 +26,7 @@ Locuscraft isn't going to fix everything. What it will do is give us a voice. It
 
 I'm a 24 year old with a degree in Electronics and Computer Engineering. I could get a well paying job somewhere if I wanted but I don't. I could cite sources for my reasons, but I'm not going to go into it. In the end I need creative freedom. I don't want to live my life like [this guy](http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/) did. Even if I don't have a fancy job, I still use my degree, working for myself. Though I really only use the programming side of it (I should have majored in information or computer science).
 
-Some people live in the past, some in the present, some in the future. I'm definitely future oriented (though my brother makes sure I enjoy the present). I dream of my future home. Not fancy cars, not a $3000 couch, hell no. I imagine a vast garden that I grow vegetables, herbs, and fruit in. It's hydroponic in a greenhouse with an automated irrigation system, and I built it all myself. It's not just one house, it's a complex of houses, modestly sized, with my friends and family each living in one. Every one of them is solar powered. I designed them myself. It's situated 30 minutes outside of a medium sized city in a forest near a mountain and a river. I picked that location. I have kids and I'm teaching them math, science, reading, history, and any time it's possible to apply what I'm teaching them we do it, together. I have a daily routine of exercising, researching, building, teaching, and relaxing.
-
-I'm a learner, a builder, and most importantly, a sharer.
-
-Being future oriented, I plan. I spend many days and nights brainstorming, running through abstract thoughts, and coming up with ideas. I bounce my ideas off my girlfriend or my friend. The good ideas I write down. Then the next day I go over them again and see if they're as good as remember. Locuscraft is one that was. I got excited just thinking about it, and again when writing the outline. The more details I wrote, the more real it became. It's doable!  I've been planning it for almost a year now. 
+Some people live in the past, some in the present, some in the future. I'm definitely future oriented (though my brother makes sure I enjoy the present). Being future oriented, I plan. I spend many days and nights brainstorming, running through abstract thoughts, and coming up with ideas. I bounce my ideas off my girlfriend or my friend. The good ideas I write down. Then the next day I go over them again and see if they're as good as remember. Locuscraft is one that was. I got excited just thinking about it, and again when writing the outline. The more details I wrote, the more real it became. It's doable! I've been planning it for almost a year now. 
 
 I was going to try to create Locuscraft by myself and see if I could get rich, then pursue other projects. I thought about it a lot. The more I thought about it, the more I realized it's greater than me. I realized my own desires were limiting its potential. To reach it's greatest potential, it has to be created by all of us, shared by all of us, run by all of us... It could be a collective system of human knowledge, planning, and interconnections... Locuscraft could be *humanity's brain*. Our global IQ would shoot way the hell up. That's why I can't make it just another for-profit scam. It just wouldn't be what we need. We need pure, advertisement-and-ulterior-motive-free, original human thoughts. We *need* Locuscraft!
 

@@ -297,7 +297,7 @@ All tasks require the completion of some sort of work on the part of the user. T
 
 Community tasks have a few similarities to posts. Like posts community tasks are always associated with a specific entry/interest. They also have their own feed on the activity feed like posts, and will be sortable/filterable. 
 
-They are different from posts in that they contribute to other users of Locuscraft, rather than to the entertainment or knowledge of the individual. You could call this the "build" part of the Locuscraft motto. To compensate users for completing tasks and doing their part, community points are awarded to the user.
+They are different from posts in that they contribute to other users of Locuscraft, rather than to the entertainment or knowledge of the individual. This part of Locuscraft involves both building and sharing. To compensate users for completing tasks and doing their part, community points are awarded to the user.
 
 Community tasks will vary based on the entry they are associated with, but examples include:
 
@@ -310,15 +310,17 @@ Community tasks will vary based on the entry they are associated with, but examp
 * Participate in opinion polls
 * Review answers
  
+I believe there should be certain **special entries** that focus on certain types of tasks. For example, there should be an entry called "Opinion" where users participate in general polls on a wide range of topics. It will ask questions where we want the opinion of as many people as possible. This special entry should be under the interests of all new user accounts by default. Another special entry could be one that focuses on Locuscraft itself. Tasks will involve the user's opinions about certain aspects of Locuscraft, user opinions on whether a change should be made to Locuscraft, and then tasks that involve actually making those changes.
+
 We want people to express their opinion as much as possible too. That includes hearing what people like and dislike. We could have people make lists of their favorite things, or of their least favorite things, and combine them to see what the average global consensus is on something.
 
-You might ask, how can we know if a user is being honest on community tasks and not just farming for points or trolling? There are a few measures we can take to validate answers:
+You might ask, *how can we know if a user is being honest on community tasks* and not just farming for points or trolling? There are a few measures we can take to validate answers:
 
-* Spellcheck to make sure real words were used
-* Having other users in the community check their answers. This, itself, could be another community task, to check users and validate that they gave an actual response, or linked an actual website, or wrote an actual description.
-* There could just be a system of ratings whereby good contributions are visible and poor contributions are buried.
+* Spellcheck to make sure real words were used. If there are more than, say, 10 errors then it can be assumed that it is a fake response, and the form will not allow the user to submit.
+* Links can be verified by the number of times different users put it as a source. Linking tasks could remain active until at least 100 links are submitted. Links that are submitted more than once will show on the entry page. To further verify links, users will be able to report a link if they click it and it goes to somewhere not related to the entry.
+* Other entry fields like descriptions, uploads, and responses can be verified through either ratings, or through a system similar to github where changes have to be commited. Highly rated submissions will be visible, while low rated submissions will be buried. 
 
-Community tasks will be sorted by importance or urgency by default. *There will likely be other ways to sort them, but I haven't figured this out yet.*
+Community tasks will be sorted by most important and urgent by default. Importance and urgency are ways of gauging task priority. Other ways of sorting are by number of submissions the task already has (number of users who have completed the task), newness of the task, and the number of points the tasks award.
 
 #####My Tasks
 

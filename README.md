@@ -289,6 +289,8 @@ The user will also be able to *sort* the posts by newness, ratings over differen
 
 Users can go to the entry page for one of their interests and filter and sort posts within that interest in the same fashion.
 
+Users can also save posts to view or share later. This is under the options for the post.
+
 ####Tasks
 
 All tasks require the completion of some sort of work on the part of the user. Tasks come in two forms: community tasks and goals.
@@ -339,7 +341,6 @@ Entry fields include:
 Settings and tools include:
 
 * Priority
-* Urgency
 * Start time
 * Deadline/expiration/end time
 * Recurrence or multiple specific timeframes
@@ -379,6 +380,12 @@ At the same time however, there is a lot of information that could be beneficial
 
 We will have to write a privacy policy, and my legalese is pretty bad. Any takers?
 
-##Other Notes
+##Ideas for the Future
 
-To make use of the plethora of information already available on the internet, I think it will be important to partner with other websites and organizations to make their resources available to Locuscraft users. For example Khan Academy could be one such website that could help users complete tasks relating to subjects on their website.
+To make use of the plethora of information already available on the internet, I think it will be important to **partner with other websites** and organizations to make their resources available to Locuscraft users. For example Khan Academy could be one such website that could help users complete tasks relating to subjects on their website. It would be a mutually beneficial relationship. A Khan Academy API could be developed to make their tutorials and videos seamlessly integrated with Locuscraft.
+
+Locuscraft has a lot of development potential. One idea I thought of was to make **"teachers" and "students"** similar to the way Khan Academy does, where teachers can assign tasks to students and the students can submit their work through the task. It really doesn't even have to be a teacher/student relationship. We could make it so any user can "share" a task with another user, and that other user can agree to complete it, or not.
+
+Another idea is to **find or create free and open source tools**, and link/integrate them with certain entries and their tasks on Locuscraft. For example, a video editor that can be found under the different entries related to that field. A drawing tool for graphic design related entries. Locuscraft can find a currently existing tool and help the developers make it better through collaboration with community tasks. Alternatively we can create our own through the same means.
+
+

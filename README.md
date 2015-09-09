@@ -8,7 +8,7 @@ Locuscraft has two parts: the community, and the individual.
 
 Locuscraft builds upon some of the great internet inventions we all know. Reddit's subreddits and posts, Wikipedia's wikis, the internet user profile, Amazon's categorization. By combining all of them together, we can create a unified, innovative, and truly entertaining internet experience that synergizes our common goals with our individual needs.
 
-In addition, Locuscraft will allow users to review anything easily. This will allow *everyone* to: gauge public opinion, find the truly best products (and therefore improve the quality of products), and have quality sources of information. Locuscraft will also: have guides for learning or building anything, allow collaboration on anything, be incredibly ease to use, and have unlimited individual personalization. 
+In addition, Locuscraft will allow users to review anything easily. This will allow *everyone* to: gauge public opinion, find the truly best products (and therefore improve the quality of products), and find quality sources of information on the internet. Locuscraft will also: have guides for learning or building anything, allow collaboration on anything, be incredibly easy to use, and have unlimited individual personalization. 
 
 To top it all off, Locuscraft will be **Open source**, **ad-free**, and have an **honest and user centered privacy policy**. 
 
@@ -22,23 +22,23 @@ Locuscraft's motto is "Learn. Build. Share." because this is fundamentally how h
 
 Locuscraft isn't going to fix everything. What it will do is give us a voice. It will allow us to see what we all really think, what we really know - not as a nation, not as an organization, but as a people, as a globe, as one. The internet has no borders. Therefore it is the key to our unity.
 
-# Who am I?
-
-I'm a 24 year old with a degree in Electronics and Computer Engineering. I could get a well paying job somewhere if I wanted but I don't. I could cite sources for my reasons, but I'm not going to go into it. In the end I need creative freedom. I don't want to live my life like [this guy](http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/) did. Even if I don't have a fancy job, I still use my degree, working for myself. Though I really only use the programming side of it (I should have majored in information or computer science).
-
-Some people live in the past, some in the present, some in the future. I'm definitely future oriented (though my brother makes sure I enjoy the present). Being future oriented, I plan. I spend many days and nights brainstorming, running through abstract thoughts, and coming up with ideas. I bounce my ideas off my girlfriend or my friend. The good ideas I write down. Then the next day I go over them again and see if they're as good as remember. Locuscraft is one that was. I got excited just thinking about it, and again when writing the outline. The more details I wrote, the more real it became. It's doable! I've been planning it for almost a year now. 
-
-I was going to try to create Locuscraft by myself and see if I could get rich, then pursue other projects. I thought about it a lot. The more I thought about it, the more I realized it's greater than me. I realized my own desires were limiting its potential. To reach it's greatest potential, it has to be created by all of us, shared by all of us, run by all of us... It could be a collective system of human knowledge, planning, and interconnections... Locuscraft could be *humanity's brain*. Our global IQ would shoot way the hell up. That's why I can't make it just another for-profit scam. It just wouldn't be what we need. We need pure, advertisement-and-ulterior-motive-free, original human thoughts. We *need* Locuscraft!
+By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft is a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
 
 #Where the Project is at
 
-Other than tons of planning, outlining, and making this readme, here's what I've done so far. I have reserved the domain space [locuscraft.com](http://www.locuscraft.com), .net, and .org. Locuscraft.net and .org just point to .com. I built the homepage with Bootstrap, check it out. It's really just a placeholder for now. You can make an account and login but can't do anything yet other than log back out. I am hosting the website with an Arvixe shared server, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I would like to upgrade the server to a dedicated server so we can handle a higher load of traffic. 
+Other than tons of planning, outlining, and making this readme, here's what I've done so far:
 
-As for the rest of Locuscraft (the user interface, profile, all functionality), it has not been built yet. It is beyond my current level of programming, so I have turned to creating it with Django 1.9, which is supposed to make creating web apps easier and quicker. I've been going through the tutorials but there is a lot to learn still. That's when I decided to just get some damn help.
+* **Reserved the domain space [locuscraft.com](http://www.locuscraft.com), .net, and .org.** Locuscraft.net and .org just point to .com. 
+* **Built a basic homepage describing the website.** It's really just a placeholder for now. You can make an account and login but can't do anything yet other than log back out. 
+* **I'm paying for hosting month-by-month with an Arvixe shared server**, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I would like to upgrade the server to a dedicated server so we can handle a higher load of traffic. 
+* **Designed the logo, the symbol for community points, and came up with a motto.** I really believe in these but I'm open to criticism.
 
-So that is where I'm at. Sharing my idea, and getting help. If you have programming experience or have any other way you can help, give me a shout! I need people to design the interface (which you can read about in detail below), both the front-end and back-end. 
+Here's what still needs to be done:
 
-By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
+* **The entire interface for the website**, front-end and back-end. I began learning how to use Django 1.9 in order to start building an interface, but I think it's best that I get some help with this before I try anything. The interface will be a significant undertaking and includes everything detailed below in this Readme.
+* **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
+* **Spreading the word.** This is what I'm working on now! If you know any online communities or other outlets we could share this with, please do so or let me know!
+* **Guidance.** I've never done anything like this before. I've never even created a project on Github because I didn't know what Github was until I started looking for help. Forgive me if I don't know things.
 
 # Locuscraft Site Map
 

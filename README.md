@@ -1,6 +1,6 @@
 # What is Locuscraft?
 
-![](https://cloud.githubusercontent.com/assets/11935672/9825214/71e5ea00-5897-11e5-907e-64849eef672f.png)
+![](https://cloud.githubusercontent.com/assets/11935672/9825460/0984940a-5899-11e5-8dfb-d5f8b2988ffb.png)
 
 Locuscraft has two parts: the community, and the individual.
 

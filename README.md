@@ -2,21 +2,27 @@
 
 ![](https://cloud.githubusercontent.com/assets/11935672/9825460/0984940a-5899-11e5-8dfb-d5f8b2988ffb.png)
 
-Locuscraft has two parts: the community, and the individual.
+Note: This is just the tip of the iceberg. There is still much to flesh out, and the project will likely never truly be finished as it will be an ever-evolving collaboration between every Locuscraft user/developer. That's the idea anyway.
 
-**The Community:** Locuscraft is a website where all internet users in the world can collaborate together to organize and review the information of the internet. The goal is to create a captivating, engaging, and streamlined user interface whereby anyone can contribute, and *everyone* will want to.
+Locuscraft focuses on two things: community and individuality.
 
-**The Individual:** Locuscraft is a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
+**Community:** Locuscraft is a website where all internet users in the world can collaborate together to organize, review, and create the information of the internet. Ideally the user interface of Locuscraft will be so captivating, engaging, and easy to use that anyone with any background and any level of computer experience can effortlessly contribute to the global community of Locuscraft in their own personal and meaningful way. Ideally they will even enjoy it.
 
-Locuscraft builds upon some of the great internet inventions we all know. Reddit's subreddits and posts, Wikipedia's wikis, the internet user profile, Amazon's categorization. By combining all of them together, we can create a unified, innovative, and truly entertaining internet experience that synergizes our common goals with our individual needs.
+**Individuality:** Locuscraft is also like a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
+
+Locuscraft builds upon some of the great internet inventions we all know. Reddit's subreddits and posts, Wikipedia's wikis, the internet user profile, Amazon's categorization. By combining all of them together, we can create a unified, innovative, and truly entertaining internet experience that synergizes our common goals with our individual lives and personalities.
 
 In addition, Locuscraft will allow users to review anything easily. This will allow *everyone* to: gauge public opinion, find the truly best products (and therefore improve the quality of products), and find quality sources of information on the internet. Locuscraft will also: have guides for learning or building anything, allow collaboration on anything, be incredibly easy to use, and have unlimited individual personalization. 
 
-To top it all off, Locuscraft will be **Open source**, **ad-free**, and have an **honest and user centered privacy policy**. 
+To top it all off, Locuscraft will be **Open source**, **ad-free**, and have an **honest and user centered privacy policy**. Anything I missed? Can we make it a non-profit?
 
 Locuscraft isn't just going to be another website. We aim to bring out the true potential of the internet - a website of the internet users, by the internet users, and for the internet users. 
 
 # Why Locuscraft?
+
+**The internet right now is a brain without a frontal lobe**, the part of the brain responsible for planning, decision-making, intellect, behavior, attention, abstract thinking, coordinated movements, and personality. We (the people) are each like a cell in this much larger organ we call the internet. Right now, all the cells aren't working for the larger organ, but are instead working for their own cellular needs, which is far more inefficient. The internet needs to evolve to a full blown organ that works at a higher-level for every cell that makes up its structure. **The internet needs a thought process, an attention span, a higher level of awareness, and the ability to make decisions (the correct ones) at a global level.**
+
+Locuscraft has the potential to provide this for the internet.
 
 We live in a world of corporations where money runs everything, and whomever has the most money has the most power. Power over everything from what we buy to our opinions and values. It doesn't have to be that way. Sure we can't just tear down the skyscrapers and put the rich in jail, but there is something we can do. Just sidestep them. Bypass their stubborn old ways. We can create our own community on the internet, create our own values, have our own opinions -  opinions not given to us by the media. We will grow and grow as they recede into history. It's simple. The world may be run by corporations, but the internet - the future - can be run by everyone.
 

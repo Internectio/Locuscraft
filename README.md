@@ -1,5 +1,7 @@
 # What is Locuscraft?
 
+![](https://cloud.githubusercontent.com/assets/11935672/9825214/71e5ea00-5897-11e5-907e-64849eef672f.png)
+
 Locuscraft has two parts: the community, and the individual.
 
 **The Community:** Locuscraft is a website where all internet users in the world can collaborate together to organize and review the information of the internet. The goal is to create a captivating, engaging, and streamlined user interface whereby anyone can contribute, and *everyone* will want to.
@@ -16,7 +18,7 @@ Locuscraft isn't just going to be another website. We aim to bring out the true 
 
 # Why Locuscraft?
 
-We live in a world of corporations where money runs everything, and whomever has the most money has the most power. Power over everything from what we buy to our opinions and values. It doesn't have to be the way. Sure we can't just tear down the skyscrapers and put the rich in jail, but there is something we can do. Just sidestep them. Bypass their stubborn old ways. We can create our own community on the internet, create our own values, have our own opinions -  opinions not given to us by the media. We will grow and grow as they recede into history. It's simple. The world may be run by corporations, but the internet - the future - can be run by everyone.
+We live in a world of corporations where money runs everything, and whomever has the most money has the most power. Power over everything from what we buy to our opinions and values. It doesn't have to be that way. Sure we can't just tear down the skyscrapers and put the rich in jail, but there is something we can do. Just sidestep them. Bypass their stubborn old ways. We can create our own community on the internet, create our own values, have our own opinions -  opinions not given to us by the media. We will grow and grow as they recede into history. It's simple. The world may be run by corporations, but the internet - the future - can be run by everyone.
 
 Locuscraft's motto is "Learn. Build. Share." because this is fundamentally how humans should live. Learn, then build something with that knowledge, then share our knowledge and creations to make the world better. These actions should be their own reward, but in a capitalist system, it's jacked up. We learn and build what's in a select fews' best interests, and we don't share our knowledge or creations unless people pay. This leads to road blocks where there shouldn't be any, crime, poverty, ignorance, waste, pollution, stress. Just open your mind and ask yourself, "are we really at the pinnacle of human achievement?" We're at the tip of the iceberg and the iceberg is melting fast.
 

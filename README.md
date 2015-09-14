@@ -28,12 +28,6 @@ Why do we need this? With the information that whistleblowers have released in t
 
 It *is* possible.
 
-~~Locuscraft's motto is "Learn. Build. Share." because this is fundamentally how humans should live. Learn, then build something with that knowledge, then share our knowledge and creations to make the world better. These actions should be their own reward, but in a capitalist system, it's jacked up. We learn and build what's in a select fews' best interests, and we don't share our knowledge or creations unless people pay. This leads to road blocks where there shouldn't be any, crime, poverty, ignorance, waste, pollution, stress. Just open your mind and ask yourself, "are we really at the pinnacle of human achievement?" We're at the tip of the iceberg and the iceberg is melting fast.
-
-Locuscraft isn't going to fix everything. What it will do is give us a voice. It will allow us to see what we all really think, what we really know - not as a nation, not as an organization, but as a people, as a globe, as one. The internet has no borders. Therefore it is the key to our unity.
-
-By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft is a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.~~
-
 #Where the Project is at
 
 Other than tons of planning, outlining, and making this readme, here's what I've done so far:
@@ -53,55 +47,6 @@ Here's what still needs to be done:
 # Locuscraft Site Map
 
 Please view the [site map](https://cloud.githubusercontent.com/assets/11935672/9317205/bcc63562-44ff-11e5-85bd-9766431f23d1.png) to get a visualization of the website.
-
-~~# Site Planning Questionnaire
-
-*Who is the target audience?*
-
-Everyone. Ideally Locuscraft would become a tool that improves everyones day-to-day utility of the internet.
-
-*How can I tailor the web site to reach that audience?*
-
-Make the website as instrumental, intuitive, and user friendly as possible so that anyone with any background or experience may use the website.
-
-*What are the goals for the site?*
-
-1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through a search engine, categorization, and ratings, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also discover information through interests and tasks (more on that below).
-
-2. To cater towards each user's interests and goals as much as possible, by providing them with an extensively customizable profile. This will allow users to better manage their time and utility while on the internet, as well as provide an entertaining, useful, go-to internet home. Whether the user's goal is to do research, to be entertained, to socialize, etc., Locuscraft should cater to and help the user accomplish this. Ways of accomplishing this will be discussed below.
-
-3. To utilize user data for the good. Privacy is incredibly important, especially for a website that learns so much about it's users. This is why the software must be open source and viewable by anyone. Once privacy is accomplished and ensured, user data can be collected either anonymously or at user discretion, then publicized, used for research, or other purposes. For example, there will be many tasks related to the user's opinion of something. This information will be collected and shared so users can see the general consensus about a topic, company, product, etc. This could be a revolution in gauging public opinion.
-
-4. To build a large and dedicated user base. None of the other goals are possible without the help of many, many users. In order to make the website more engaging and make users come back, we must give users great utility, and use some psychology. By psychology I mean giving them freedom in personalization and functions; rewarding them with points, ratings, comments, and views; and giving them something truly new and useful.
-
-*How will the information be gathered?*
-
-All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization. Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, comments, uploads, and maybe other sources. Tasks, points, and posting will be the main driving force for gathering this information.
-
-*What are my sources for multimedia content?*
-
-Right now, I am creating all the multimedia content myself, or creating different images using free stock images from the internet and modifying them. I have done this with the logo and background images on the front page. I am somewhat particular about the style of the website. I feel that it should be awe-inspiring and give people a sense of discovery the moment they see the front page. The interface should be minimalistic and uncluttered to make it as easy as possible to navigate and understand.
-
-*What is my budget?*
-
-My own pocket for the time being. I am open to donations and would like to expand if I acquire enough. I would like to have enough income from this project to make it my full-time job and move out of the house I am living in, but if you would like to contribute for a specific purpose, such as some internet service or dedicated servers, I'm sure we can arrange it!
-
-*How long do I have to complete the project?*
-
-I will work on this as long as it takes, but I would like to get it going ASAP. Currently, working by myself, it could be a year before I have a basic usable user interface for the website. I am still learning how to use Django. The more people we get working on this, the sooner it will revolutionize the internet.
-
-*Who is on my project team?*
-
-No one yet. I would love to hear from anyone who has experience programming and wants to help. Also if you have constructive criticism or a suggestion for the project, I would like to hear it.
-
-*How often should the site be updated?*
-
-Probably daily but that is down the road.
-
-*Who is responsible for updating the site?*
-
-Just me for the time being.~~
-
 
 # Locuscraft Plan
 

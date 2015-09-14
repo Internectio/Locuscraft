@@ -2,13 +2,13 @@
 
 ![](https://cloud.githubusercontent.com/assets/11935672/9825460/0984940a-5899-11e5-8dfb-d5f8b2988ffb.png)
 
-Note: This is just the tip of the iceberg. There is still much to flesh out, and the project will likely never truly be finished as it will be an ever-evolving collaboration between every Locuscraft user/developer. That's the idea anyway.
+Note: As you begin reading this, realize that all of it is merely the tip of the iceberg. There are likely numerous features that will flesh out in the future. This project will be an ever-evolving collaboration between every Locuscraft user/developer. That's the idea anyway.
 
 Locuscraft focuses on two things: community and individuality.
 
-**Community:** Locuscraft is a website where all internet users in the world can collaborate together to organize, review, and create the information of the internet. Ideally the user interface of Locuscraft will be so captivating, engaging, and easy to use that anyone with any background and any level of computer experience can effortlessly contribute to the global community of Locuscraft in their own personal and meaningful way. Ideally they will even enjoy it.
+* **Community:** Locuscraft is a website where all internet users in the world can collaborate together to organize, review, and create the information of the internet. Ideally the user interface of Locuscraft will be so captivating, engaging, and easy to use that anyone with any background and any level of computer experience can effortlessly contribute to the global community of Locuscraft in their own personal and meaningful way. Ideally they will even enjoy it.
 
-**Individuality:** Locuscraft is also like a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
+* **Individuality:** Locuscraft is also like a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
 
 Locuscraft builds upon some of the great internet inventions we all know. Reddit's subreddits and posts, Wikipedia's wikis, the internet user profile, Amazon's categorization. By combining all of them together, we can create a unified, innovative, and truly entertaining internet experience that synergizes our common goals with our individual lives and personalities.
 

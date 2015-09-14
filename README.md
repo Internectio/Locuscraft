@@ -44,6 +44,8 @@ Here's what still needs to be done:
 * **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
 * **Spreading the word.** This is what I'm working on now! If you know any online communities or other outlets we could share this with, please do so or let me know!
 
+Finally, if anyone is interested I have answered a short [https://github.com/Zachcraft/Locuscraft/issues/2](site planning questionaire). It seemed a bit redundant so I decided to link it rather than write it up in this readme.
+
 # Locuscraft Site Map
 
 Please view the [site map](https://cloud.githubusercontent.com/assets/11935672/9317205/bcc63562-44ff-11e5-85bd-9766431f23d1.png) to get a visualization of the website.

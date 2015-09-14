@@ -2,7 +2,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/11935672/9825460/0984940a-5899-11e5-8dfb-d5f8b2988ffb.png)
 
-Note: As you begin reading this, realize that all of it is merely the tip of the iceberg. There are likely numerous features that will flesh out in the future. This project will be an ever-evolving collaboration between every Locuscraft user/developer. That's the idea anyway.
+Note: The plans laid out in this Readme are but the tip of the iceberg. As you read on, make an effort to visualize the potential growth that could result from this collaboration. That being said, there are likely numerous features that have not yet fleshed out yet in this Readme.
 
 Locuscraft focuses on two things: community and individuality.
 
@@ -10,7 +10,7 @@ Locuscraft focuses on two things: community and individuality.
 
 * **Individuality:** Locuscraft is also like a centralized, organized, and personalized internet homepage for the individual and their internet experience. It will keep track of the user's interests, goals, and routines through a user profile. It will continuously display updated information based on the user's interests; assist the user in accomplishing his/her goals; and make their routines more efficient and focused. 
 
-Locuscraft builds upon some of the great internet inventions we all know. Reddit's subreddits and posts, Wikipedia's wikis, the internet user profile, Amazon's categorization. By combining all of them together, we can create a unified, innovative, and truly entertaining internet experience that synergizes our common goals with our individual lives and personalities.
+Locuscraft builds upon some of the great internet inventions we all know. Reddit's subreddits and posts, Wikipedia's wikis, the internet user profile, and categorization. By combining all of them together, we can create a unified, innovative, and truly entertaining internet experience that synergizes our common goals with our individual lives and personalities.
 
 In addition, Locuscraft will allow users to review anything easily. This will allow *everyone* to: gauge public opinion, find the truly best products (and therefore improve the quality of products), and find quality sources of information on the internet. Locuscraft will also: have guides for learning or building anything, allow collaboration on anything, be incredibly easy to use, and have unlimited individual personalization. 
 
@@ -20,17 +20,19 @@ Locuscraft isn't just going to be another website. We aim to bring out the true 
 
 # Why Locuscraft?
 
-**The internet right now is a brain without a frontal lobe**, the part of the brain responsible for planning, decision-making, intellect, behavior, attention, abstract thinking, coordinated movements, and personality. We (the people) are each like a cell in this much larger organ we call the internet. Right now, all the cells aren't working for the larger organ, but are instead working for their own cellular needs, which is far more inefficient. The internet needs to evolve to a full blown organ that works at a higher-level for every cell that makes up its structure. **The internet needs a thought process, an attention span, a higher level of awareness, and the ability to make decisions (the correct ones) at a global level.**
+**The internet right now is a brain without a frontal lobe**, the part of the brain responsible for planning, decision-making, intellect, behavior, attention, abstract thinking, coordinated movements, and personality. We (the people) are each like a cell in this much larger organ we call the internet. Right now, all the cells aren't working for the larger organ, but are instead working for their own cellular needs, which is far more inefficient. The internet needs to evolve to a full blown organ that works at a higher-level for every cell that makes up its structure. **The internet (humanity) needs a singular unified thought process, an attention span, a higher level of awareness, and the ability to make decisions (the correct ones) at a global level.**
 
 Locuscraft has the potential to provide this for the internet.
 
-We live in a world of corporations where money runs everything, and whomever has the most money has the most power. Power over everything from what we buy to our opinions and values. It doesn't have to be that way. Sure we can't just tear down the skyscrapers and put the rich in jail, but there is something we can do. Just sidestep them. Bypass their stubborn old ways. We can create our own community on the internet, create our own values, have our own opinions -  opinions not given to us by the media. We will grow and grow as they recede into history. It's simple. The world may be run by corporations, but the internet - the future - can be run by everyone.
+Why do we need this? With the information that whistleblowers have released in the past few years, we have learned that our governments, our coporations, our media all exist, not for their citizens or consumers, but to preserve their own existence, to increase their wealth and their power. They have extremely high influence over our purchases, our values, our opinions, and our daily lives. Thankfully, a new age of awareness has arisen due to the internet, but this awareness is limited and unrefined. We literally have the capability to govern ourselves on a global level with the internet. All we must do is create a place on the internet where anyone of any designation, any background, any belief can speak freely; a place that organizes and highlights our most important thoughts and allows us to reflect on them as a globe; a place where change can be outlined, voted on, and coordinated; a place where truth is taught, opinions are praised, and lies are denied; a place that doesn't seek to sell us something, but rather seeks to selflessly improve humanity.
 
-Locuscraft's motto is "Learn. Build. Share." because this is fundamentally how humans should live. Learn, then build something with that knowledge, then share our knowledge and creations to make the world better. These actions should be their own reward, but in a capitalist system, it's jacked up. We learn and build what's in a select fews' best interests, and we don't share our knowledge or creations unless people pay. This leads to road blocks where there shouldn't be any, crime, poverty, ignorance, waste, pollution, stress. Just open your mind and ask yourself, "are we really at the pinnacle of human achievement?" We're at the tip of the iceberg and the iceberg is melting fast.
+It *is* possible.
+
+~~Locuscraft's motto is "Learn. Build. Share." because this is fundamentally how humans should live. Learn, then build something with that knowledge, then share our knowledge and creations to make the world better. These actions should be their own reward, but in a capitalist system, it's jacked up. We learn and build what's in a select fews' best interests, and we don't share our knowledge or creations unless people pay. This leads to road blocks where there shouldn't be any, crime, poverty, ignorance, waste, pollution, stress. Just open your mind and ask yourself, "are we really at the pinnacle of human achievement?" We're at the tip of the iceberg and the iceberg is melting fast.
 
 Locuscraft isn't going to fix everything. What it will do is give us a voice. It will allow us to see what we all really think, what we really know - not as a nation, not as an organization, but as a people, as a globe, as one. The internet has no borders. Therefore it is the key to our unity.
 
-By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft is a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.
+By the way, you may be wondering why it's called "Locuscraft". This is partially a result of me finding a suitable domain space, but it has a meaning too. Locus means a place, a center, a focus. To craft is to build. Therefore Locuscraft is a single place to bring everyone together and build something together. I also wanted it to sound like a game, because Locuscraft is going to be entertaining as hell I promise you.~~
 
 #Where the Project is at
 
@@ -43,16 +45,16 @@ Other than tons of planning, outlining, and making this readme, here's what I've
 
 Here's what still needs to be done:
 
-* **The entire interface for the website**, front-end and back-end. I began learning how to use Django 1.9 in order to start building an interface, but I think it's best that I get some help with this before I try anything. The interface will be a significant undertaking and includes everything detailed below in this Readme.
+* First, **We need a real list of programming specific tasks.** This to-do list is rudimentory and we need one that specifies the exact things that need to be created.
+* **The entire interface for the website**, front-end and back-end. The question is how should it be built? Django 1.9 was what I was going to use. The interface's details are outlined below, under "Locuscraft Plan".
 * **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
 * **Spreading the word.** This is what I'm working on now! If you know any online communities or other outlets we could share this with, please do so or let me know!
-* **Guidance.** I've never done anything like this before. I've never even created a project on Github because I didn't know what Github was until I started looking for help. Forgive me if I don't know things.
 
 # Locuscraft Site Map
 
 Please view the [site map](https://cloud.githubusercontent.com/assets/11935672/9317205/bcc63562-44ff-11e5-85bd-9766431f23d1.png) to get a visualization of the website.
 
-# Site Planning Questionnaire
+~~# Site Planning Questionnaire
 
 *Who is the target audience?*
 
@@ -64,7 +66,7 @@ Make the website as instrumental, intuitive, and user friendly as possible so th
 
 *What are the goals for the site?*
 
-1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through a search engine and categorization, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also discover information through interests and tasks (more on that below).
+1. To create an organized and centralized hub of the internet's information and services. Locuscraft will help users find information and services on the internet through a search engine, categorization, and ratings, much like how one might find a product on Amazon by navigating to the department (or category) the product is in. User's will also discover information through interests and tasks (more on that below).
 
 2. To cater towards each user's interests and goals as much as possible, by providing them with an extensively customizable profile. This will allow users to better manage their time and utility while on the internet, as well as provide an entertaining, useful, go-to internet home. Whether the user's goal is to do research, to be entertained, to socialize, etc., Locuscraft should cater to and help the user accomplish this. Ways of accomplishing this will be discussed below.
 
@@ -74,7 +76,7 @@ Make the website as instrumental, intuitive, and user friendly as possible so th
 
 *How will the information be gathered?*
 
-All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization (tongue twister there). Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, comments, uploads, and maybe other sources. Tasks, points, and posting will be the main driving force for gathering this information.
+All of the information will come from the users. All we (the developers) have to do is create the interface that the users will use. Then the users will take care of information categorization and organization. Information could come in the form of links, multimedia, and text. It could come from references to websites, profile information (based on privacy settings), polls they have answered, comments, uploads, and maybe other sources. Tasks, points, and posting will be the main driving force for gathering this information.
 
 *What are my sources for multimedia content?*
 
@@ -98,10 +100,10 @@ Probably daily but that is down the road.
 
 *Who is responsible for updating the site?*
 
-Just me for the time being.
+Just me for the time being.~~
 
 
-# More about my Plan
+# Locuscraft Plan
 
 ##Navigation Bar
 
@@ -251,7 +253,6 @@ Users can earn community points by completing tasks. Community points are a meas
 Similar to Reddit's karma, any user will be able to see any other user's points. Therefore points could become a representation of status. To further their value, a leaderboard could keep track of users with the most points. Eventually, I would like to make points unlock actual things for the user's profile as well, such as custom skins or avatars, maybe web tools. I'm open to other ideas.
 
 Read about [Tasks](.####Tasks) below to see ways community points can be earned.
-
 
 **Other Points**
 

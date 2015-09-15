@@ -2,7 +2,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/11935672/9884120/ac551206-5ba3-11e5-9f0f-00eca0a9636b.png)
 
-Note: The plans laid out in this Readme are but the tip of the iceberg. As you read on, make an effort to visualize the potential growth that could result from this collaboration. That being said, there are likely numerous features that have not yet fleshed out yet in this Readme.
+Note: The plans laid out in this Readme are but the tip of the iceberg. As you read on, make an effort to visualize the potential growth that could result from this collaboration. That being said, there are likely numerous features that have not yet fleshed out in this Readme.
 
 Locuscraft focuses on two things: community and individuality.
 

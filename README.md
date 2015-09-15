@@ -1,6 +1,6 @@
 # What is Locuscraft?
 
-![](https://cloud.githubusercontent.com/assets/11935672/9825460/0984940a-5899-11e5-8dfb-d5f8b2988ffb.png)
+![](https://cloud.githubusercontent.com/assets/11935672/9883972/f18f0b84-5ba2-11e5-9bca-12a70d37c481.png)
 
 Note: The plans laid out in this Readme are but the tip of the iceberg. As you read on, make an effort to visualize the potential growth that could result from this collaboration. That being said, there are likely numerous features that have not yet fleshed out yet in this Readme.
 

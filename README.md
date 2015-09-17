@@ -48,9 +48,10 @@ Finally, if anyone is interested I have answered a short [site planning question
 
 # Locuscraft Site Map
 
-This is a basic navigational map of the website for your reference. Anything can change at anytime.
+This is a basic navigational map of the website for your reference. It is not comprehensive and could be changed at anytime.
 
-![](https://cloud.githubusercontent.com/assets/11935672/9940247/4abdd7fc-5d34-11e5-8bce-113e156e78d6.png)
+![](https://cloud.githubusercontent.com/assets/11935672/9947312/d9994216-5d5e-11e5-92eb-5a57ff8cbe41.png)
+
 
 # Locuscraft Plan
 
@@ -63,16 +64,13 @@ The navigation bar at the very least will have the "home" link to the Locuscraft
 The rest of the navigation bar is dependent on the functionality of Locuscraft. There needs to be a way to browse Locuscraft's entries in a variety of ways i.e. by category, popularity, featured, etc. There's products, subjects, and sponsored.
 
 **Discover**
-
 * Subjects
-
   * [Wikipedia Category Structure](https://en.wikipedia.org/wiki/Portal:Contents/Categories) or [Web Directory Structure](http://botw.org/)
   * Hot
   * Top Viewed
   * Newly Added
   * Random
   * Featured
-	
 * Products
   * [Amazon Category Structure](http://www.amazon.com/gp/site-directory/ref=nav_shopall_fullstore)
   * Most Purchased
@@ -82,26 +80,26 @@ The rest of the navigation bar is dependent on the functionality of Locuscraft. 
   * Highest Reviews
   * Featured
   * Buying Guide
-
 * Sponsored
 * Entertainment
 * News
+* Games
 * Tools
 
 **Create**
-
-* A Web Project
-* An Entry
+* A Post
+* A Task
+* New Project
+* New Entry
 * Art
-* Something with us
-* I don't know what to create
+* Get Inspiration
 
 **Share**
-
-* A Story
-* An Idea
-* Knowledge 
-* Wealth (Donate to us or to charity)
+* A Post
+* A Task
+* Help With a Project
+* Help Someone
+* Donate
 
 ##Entries
 
@@ -124,9 +122,9 @@ All of this vast amount of information for each entry needs to be well organized
 
 ###Categorization
 
-Locuscraft should very much be a place of discovery. The first word in our motto is "learn". If you don't discover new information, then your learning is limited to things you already know about. Google is amazing and makes good information on the internet findable. The problem is, you have to know, or at least have an idea of what it is you are searching for. 
+Locuscraft should be a place of discovery. The first word in our motto is "learn". If you don't discover new information, then your learning is limited to things you already know about. Google is amazing and makes good information on the internet findable. The problem is, you have to know, or at least have an idea of what it is you are searching for. 
 
-The purpose of categorization is to make entries you might be interested in more easily discoverable, by throwing them into branches you already have an interest in. An excellent example of categorization is Amazon's "shop by department". It breaks every product on their website down into categories. A user like myself might just go to "Electronics & Computers" then click "Wearable technology" and discover products I never knew existed. After clicking this, you can break the department down into even narrower sub-categories. Why not do this with the internet's information too? If we value the internet so much, why shouldn't we pitch good information and sell it to internet users the same way Amazon markets its products to customers?
+The purpose of categorization is to make entries you might be interested in more easily discoverable, by throwing them into branches you already have an interest in. An excellent example of categorization is Amazon's "shop by department". It breaks every product on their website down into categories. A user like myself might just go to "Electronics & Computers" then click "Wearable technology" and discover products I never knew existed. After clicking this, you can break the department down into even narrower sub-categories. Why not do this with the internet's information too? If we value the internet so much, why shouldn't we pitch good information and sell it to internet users the same way a retail outlet would market its products to customers?
 
 Categories will be hierarchical, meaning there will be top-level, mid-level (possibly multiple), and bottom-level categories. Categories are used to give users another way to browse, find, or discover entries. Let's say a user is looking to buy a new chainsaw as an example. It could be navigated to like this: 
 

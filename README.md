@@ -48,7 +48,9 @@ Finally, if anyone is interested I have answered a short [site planning question
 
 # Locuscraft Site Map
 
-Please view the [site map](https://cloud.githubusercontent.com/assets/11935672/9317205/bcc63562-44ff-11e5-85bd-9766431f23d1.png) to get a visualization of the website.
+This is a basic navigational map of the website for your reference. Anything can change at anytime.
+
+![](https://cloud.githubusercontent.com/assets/11935672/9940247/4abdd7fc-5d34-11e5-8bce-113e156e78d6.png)
 
 # Locuscraft Plan
 

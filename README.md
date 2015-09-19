@@ -1,5 +1,7 @@
 # What is Locuscraft?
 
+Potentially, it is the executive functions of a collective human brain.
+
 ![](https://cloud.githubusercontent.com/assets/11935672/9971273/32d426f4-5e20-11e5-8ec5-71ed6f5eb93f.png)
 
 Note: The plans laid out in this Readme are but the tip of the iceberg. As you read on, make an effort to visualize the potential growth that could result from this collaboration. That being said, there are likely numerous features that have not yet fleshed out in this Readme.
@@ -42,7 +44,7 @@ Here's what still needs to be done:
 * First, **We need a real list of programming specific tasks.** This to-do list is rudimentory and we need one that specifies the exact things that need to be created.
 * **The entire interface for the website**, front-end and back-end. The question is how should it be built? Django 1.9 was what I was going to use. The interface's details are outlined below, under "Locuscraft Plan".
 * **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
-* **Spreading the word.** This is what I'm working on now! If you know any online communities or other outlets we could share this with, please do so or let me know!
+* **Spreading the word.** This is what I'm working on now. If you know any online communities or other outlets we could share this with, please do so or let me know!
 
 Finally, if anyone is interested I have answered a short [site planning questionaire](https://github.com/Zachcraft/Locuscraft/issues/2). It seemed a bit redundant so I decided to link it rather than write it up in this readme.
 
@@ -343,5 +345,7 @@ To make use of the plethora of information already available on the internet, I 
 Locuscraft has a lot of development potential. One idea I thought of was to make **"teachers" and "students"** similar to the way Khan Academy does, where teachers can assign tasks to students and the students can submit their work through the task. It really doesn't even have to be a teacher/student relationship. We could make it so any user can "share" a task with another user, and that other user can agree to complete it, or not.
 
 Another idea is to **find or create free and open source tools**, and link/integrate them with certain entries and their tasks on Locuscraft. For example, a video editor that can be found under the different entries related to that field. A drawing tool for graphic design related entries. Locuscraft can find a currently existing tool and help the developers make it better through collaboration with community tasks. Alternatively we can create our own through the same means.
+
+We could **increase the functionality of product pages** by having tasks associated with each product. Once a user purchases a product, they could tell Locuscraft they purchased it and give Locuscraft the tracking number, then on the user's homepage it will keep up with where in transit the package is at. Once the user receives the package, tasks will appear in the user's "My Tasks" associated with the product. It could be instructions or guides on using the product, things they should know, etc. Locuscraft could even bookmark the user manual online so the user always has it.
 
 

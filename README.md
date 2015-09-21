@@ -348,4 +348,8 @@ Another idea is to **find or create free and open source tools**, and link/integ
 
 We could **increase the functionality of product pages** by having tasks associated with each product. Once a user purchases a product, they could tell Locuscraft they purchased it and give Locuscraft the tracking number, then on the user's homepage it will keep up with where in transit the package is at. Once the user receives the package, tasks will appear in the user's "My Tasks" associated with the product. It could be instructions or guides on using the product, things they should know, etc. Locuscraft could even bookmark the user manual online so the user always has it.
 
+**Allow users to access their profiles, and especially "My Tasks" on their phones.** This means creating a Locuscraft app for small devices. Users may create a shopping list on their Locuscraft account on their computer. They can keep it on there forever if they want then access the list when they're at the store. Convenience! Allow them to browse posts, entries, and their tasks too.
+
+**Imagine the possibilites with bitcoin.** Imagine a world without governemnets, but just a community of online users with a system of self-governance. Taxes could be collected from user's bitcoin accounts based on an annual percentage, and the users put these funds into the community the way they see fit. Users can vote on the changes they want to see or the projects they want funded and their taxes will go directly into those things. Of course this is more like a fantasy than an idea, but just imagine...
+
 

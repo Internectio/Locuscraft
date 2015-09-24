@@ -1,6 +1,26 @@
 # What is Locuscraft?
 
-Potentially, it is the executive functions of a collective human brain.
+A website built for everyone and by everyone. We use the internet to send and receive information to and from anywhere in the world. Locuscraft's purpose is to allow us to do this in the most efficient, organized, transparent, decentralized way.
+
+Specifically, everyone will have access to the same information - Locuscraft entries, which are similar to Wikis with increased functionality and more *kinds* of information. Users can add to entries, share them, edit them, create new ones, or just browse them. Locuscraft is much more than an encyclopedia though. Every Locuscraft entry can have its own:
+
+ * Posts (similar to Reddit posts)
+ * Forums
+ * Something never done before - community tasks
+ * The best sources relating to the entry
+ * Guides
+ * Reviews
+ * and more (read on)
+
+You may say, "oh it's just a mash-up of a bunch of things that already exist". Well you'd be right for the most part. So, why build it? 
+
+1. Everyone will have control over all of these things.
+2. Maximum organization and efficiency in finding the information you want.
+3. Global awareness - since Locuscraft will be for everyone with no borders.
+4. Global reviews - every entry, and it's posts, tasks, comments, and guides can have a rating. The highly rated stuff will be highly visible while low ratings will be at the bottom. 
+5. Community tasks don't exist anywhere else. These will be the driving force for the creation of new information on the website among other things. Read about them below.
+
+In additon to these things, there will be no CEO's, no advertisemens, no profiteering, no borders. Locuscraft will be a self-governed system of internet users. How 
 
 ![](https://cloud.githubusercontent.com/assets/11935672/9971273/32d426f4-5e20-11e5-8ec5-71ed6f5eb93f.png)
 

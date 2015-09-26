@@ -1,8 +1,8 @@
 # What is Locuscraft?
 
-A website built for everyone and by everyone. We use the internet to send and receive information to and from anywhere in the world. Locuscraft's purpose is to allow us to do this in the most efficient, organized, transparent, decentralized, all-inclusive way.
+A website built for everyone and by everyone. Locuscraft's aim is to be globally used as an open source, decentralized medium of information sharing and creation through individual and collaborative efforts, with the use of open source tools, a user-friendly interface, and data architecture centered around and voted on by its users.
 
-Specifically, everyone will have access to the same information - Locuscraft entries, which are similar to Wikis with increased functionality and more *kinds* of information. Users can add to entries, share them, edit them, create new ones, or just browse them. Locuscraft is much more than an encyclopedia though. Every Locuscraft entry can have its own:
+Everyone will have access to the same information - Locuscraft entries, which are similar to Wikis with increased functionality and more *kinds* of information. Users can add to entries, share them, edit them, create new ones, or just browse them. Locuscraft is much more than an encyclopedia though. Every Locuscraft entry can have its own:
 
  * Posts (similar to Reddit posts)
  * Forums
@@ -16,11 +16,11 @@ You may say, "oh it's just a mash-up of a bunch of things that already exist". W
 
 1. **Everyone will have control** over all of these things, as well as any future additions.
 2. **Maximum organization and efficiency** in finding the information you want.
-3. **Global awareness** - since high quality, personalized information will be visible on everyones homepage; since everyone will contribute information from all walks of life; and since there are no borders.
+3. **Global awareness** - since high quality, personalized information will be visible on everyones' homepage; since everyone will contribute information from all walks of life; and since there are no borders.
 4. **Global reviews** - every entry, and it's posts, tasks, comments, and guides can have a rating. The highly rated stuff will be highly visible while low ratings will be at the bottom. 
 5. **Community tasks don't exist anywhere else.** These will be the driving force for the creation of new information on the website among other things. Read about them below.
 
-In additon to these reasons, there will be **no CEO's**, **no advertisements**, **no profiteering**, **no borders**. The **privacy policy**, too, will be created by the users and centered around the user's needs.
+In additon to these reasons, there will be **no CEO's**, **no advertisements**, **no profiteering**, and **no borders**. The **privacy policy**, too, will be created by the users and centered around the user's needs.
 
 Below is a sample of what a user's homepage might look like.
 
@@ -28,20 +28,15 @@ Below is a sample of what a user's homepage might look like.
 
 As you can see, there is also a "My Tasks" section. This section is for individual endeavors. Users can make any task they want, and can even share them to create a repository of tasks other users can choose from. Tasks may be in the form of a list or a timeline; may include goals, to-do lists, reminders, etc.
 
-
-
-
-In addition, Locuscraft will allow users to review anything easily. This will allow *everyone* to: gauge public opinion, find the truly best products (and therefore improve the quality of products), and find quality sources of information on the internet. Locuscraft will also: have guides for learning or building anything, allow collaboration on anything, be incredibly easy to use, and have unlimited individual personalization. 
-
-To top it all off, Locuscraft will be **Open source**, **ad-free**, and have an **honest and user centered privacy policy**. Anything I missed? Can we make it a non-profit?
-
-Locuscraft isn't just going to be another website. We aim to bring out the true potential of the internet - a website of the internet users, by the internet users, and for the internet users. 
+Locuscraft isn't just going to be another website. We aim to bring out the true potential of the internet - a true website of the internet users, by the internet users, and for the internet users. 
 
 # Why Locuscraft?
 
 Compare the internet with the human brain for a minute. Both are vast networks made up of information. The internet is actually made up of human brains - a brain of brains? Both have memories, opinions, and emotions. The human brain is very complex, though, with more than simple memories and emotions.
 
-Now, when comparing the internet to the human brain, you must consider the *entire* internet, which is global and includes *all* users. Humans have this part called the frontal lobe which controls the executive functions of the brain, the part of the brain responsible for planning, decision-making, intellect, behavior, attention, abstract thinking, coordinated movements, and personality. The internet's frontal lobe is very small due to the inability to make decisions on a global level, eratic behaviors, self-infliction, a poor attention span, very uncoordinated movements, and multiple personalities. The internet does not work as a singular organ, and instead still works at the cellular level where every cell is fighting for its own survival. This analogy works for not just the internet, but humanity in general. 
+Now, when comparing the internet to the human brain, you must consider the *entire* internet, which is global and includes *all* users. Humans have this part called the frontal lobe which controls the executive functions of the brain, the part of the brain responsible for planning, decision-making, intellect, behavior, attention, abstract thinking, coordinated movements, and personality. The internet's frontal lobe is very small due to the inability to make decisions on a global level, eratic behaviors, a poor attention span, very uncoordinated movements, and multiple personalities. In other words, the internet does not work as a singular organ, and instead still works at the cellular level where every cell is fighting for its own survival. This analogy works for not just the internet, but humanity in general. 
+
+The only way for us to really progress is to work together - as **one**. We are one species on one planet using one global network of communication called the internet. The internet is capable of working like one organ if we create one place we all create, take part in, and share.
 
 When are we going to wake up and realize we don't have to fight for our own survival? When are we going to evolve to a full blown organ that works at a higher-level for every cell that makes up its structure. **The internet (humanity) needs a singular unified thought process, an attention span, a higher level of awareness, and the ability to make decisions (the correct ones) at a global level.**
 

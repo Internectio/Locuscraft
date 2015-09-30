@@ -51,21 +51,18 @@ Other than tons of planning, outlining, and making this readme, here's what I've
 * **I'm paying for hosting month-by-month with an Arvixe shared server**, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I would like to upgrade the server to a dedicated server so we can handle a higher load of traffic. 
 * **Designed the logo, the symbol for community points, and came up with a motto.** I really believe in these but I'm open to criticism.
 
-Here's what still needs to be done:
-
-* First, **We need a real list of programming specific tasks.** This to-do list is rudimentory and we need one that specifies the exact things that need to be created.
-* **The entire interface for the website**, front-end and back-end. The question is how should it be built? Django 1.9 was what I was going to use. The interface's details are outlined below, under "Locuscraft Plan".
-* **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
-* **Spreading the word.** This is what I'm working on now. If you know any online communities or other outlets we could share this with, please do so or let me know!
+Also, if anyone is interested I have answered a short [site planning questionaire](https://github.com/Zachcraft/Locuscraft/issues/2). It seemed a bit redundant so I decided to link it here, rather than write it up in this readme.
 
 ##Locuscraft To-Do List
 
-* Develop the basic structure of subject entry pages. The initial framework for entries can come from the "Wiki".
-* Create a few starter subject pages to be used for the User Homepage.
-* Develop the User Homepage including user's post feed, community task feed, My Tasks, and user sidebar.
-* Create the default categories all new accounts will have in their interests.
-
-Finally, if anyone is interested I have answered a short [site planning questionaire](https://github.com/Zachcraft/Locuscraft/issues/2). It seemed a bit redundant so I decided to link it rather than write it up in this readme.
+* Make this list more detailed (that's my job).
+* **The entire interface for the website**, front-end and back-end. The question is how should it be built? Django 1.9 was what I was going to use. The interface's details are outlined below, under "Locuscraft Plan".
+  * Develop the basic structure of subject entry pages. The initial framework for entries can come from the "Wiki".
+  * Create a few starter subject pages to be used for the User Homepage.
+  * Develop the User Homepage including user's post feed, community task feed, My Tasks, and user sidebar.
+  * Create the default categories all new accounts will have in their interests.
+* **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
+* **Spreading the word.** This is what I'm working on now. If you know any online communities or other outlets we could share this with, please do so or let me know!
 
 # Locuscraft Site Map
 

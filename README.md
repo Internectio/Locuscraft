@@ -58,6 +58,13 @@ Here's what still needs to be done:
 * **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
 * **Spreading the word.** This is what I'm working on now. If you know any online communities or other outlets we could share this with, please do so or let me know!
 
+##Locuscraft To-Do List
+
+* Develop the basic structure of subject entry pages. The initial framework for entries can come from the "Wiki".
+* Create a few starter subject pages to be used for the User Homepage.
+* Develop the User Homepage including user's post feed, community task feed, My Tasks, and user sidebar.
+* Create the default categories all new accounts will have in their interests.
+
 Finally, if anyone is interested I have answered a short [site planning questionaire](https://github.com/Zachcraft/Locuscraft/issues/2). It seemed a bit redundant so I decided to link it rather than write it up in this readme.
 
 # Locuscraft Site Map
@@ -117,16 +124,18 @@ The rest of the navigation bar is dependent on the functionality of Locuscraft. 
 
 ##Entries
 
-Locuscraft entries are similar in nature to a Wikipedia entry. What is meant by entry is simply a subject/article/category of information, such as an entry about apples. Wikipedia was a revolutionary creation for the internet. It made paper encyclopedias obsolete with its plethora of encyclopedia based knowledge that its users, not the Wikimedia Foundation, added to the website. What can Locuscraft use from Wikipedia's example? What can Locuscraft bring to the table? 
+An entry is simply a subject/article/category of information, such as an entry about apples. Locuscraft entries are similar in nature to Wikipedia entries, but with additional kinds of information, detailed below. Like Wikipedia, Locuscraft will rely on its users to create the entries.
 
-Take a look at the [entry for Apple on Wikipedia](https://en.wikipedia.org/wiki/Apple). It contains a vast amount of information about the simple fruit including its history, cultural aspects, cultivation, nutrition and then some. Similarly to Wikipedia's article for the apple, Locuscraft will have an entry likely with a table of contents with similar information. What does Wikipedia lack for the apple that the internet has, or could have? How about recipes? How about what people think about apples? How about a place to comment on the subject? Videos, pictures, and other multimedia? Where to buy apples on the internet? Locuscraft's purpose is to bring the internet of information about a subject into one central place. This is specifically the purpose of the entry. At the moment, Locuscraft entries will include the following:
+There are of course different kinds of apples. You might ask how Locuscraft would differentiate between Apple, the company, and apple, the fruit. This would work exactly the same way it does on Wikipedia. There will be separate entries for each kind of apple, and there will be pages like [this](https://en.wikipedia.org/wiki/Apple_%28disambiguation%29) showing all of them when searching.
 
-* Basic, need-to-know, information about the subject, followed by an expandable section of additional, useful, common and uncommon information about the subject, followed by the best places (websites) on the internet to learn more about the subject.
+Take a look at the [entry for Apple (the fruit) on Wikipedia](https://en.wikipedia.org/wiki/Apple). It contains a vast amount of information about the simple fruit including its history, cultural aspects, cultivation, nutrition and then some. The Locuscraft entry will have this *kind* information *about* apples under a "description" section. So what other kinds of information are there for apples? How about recipes? How about what people think about apples? How about a place to comment on the subject? Videos, pictures, and other multimedia? Where to buy apples on the internet? Locuscraft's purpose is to bring the internet of information about a subject into one central place. This is the purpose of Locuscraft entries. At the moment, Locuscraft entries will include the following:
+
+* Basic, need-to-know, information about the subject, followed by an expandable section headings (like Wikipedia headings) of additional,  information about the subject, followed by the best places (websites/resources) on the internet to learn more about the subject.
 * Latest news on the subject.
 * If the subject is related to a discipline or art, there will be a guide for learning that art. In the case of apples, this could be recipes or cultivation.
-* Videos, pictures, and other multimedia of the subject found on the internet.
+* Videos, pictures, and other multimedia of the subject found on the internet (filterable and sortable).
 * Locuscraft user statistics relating to the subject (such as users' favorite apples, percent of user's that like apples, etc.).
-* User created tasks (more about tasks below) for the subject (such as give your opinion about apples, answer a questionaire or poll about apples, contribute to apple research, etc.)
+* User created community tasks (more about tasks below) for the subject (such as opinion polls, create a header image, add information to the apple entry, etc.)
 * A list of communities/organizations/clubs relating to the subject.
 * A list of other subjects closely related to the subject.
 * Forums on the subject.
@@ -138,7 +147,7 @@ All of this vast amount of information for each entry needs to be well organized
 
 Locuscraft should be a place of discovery. The first word in our motto is "learn". If you don't discover new information, then your learning is limited to things you already know about. Google is amazing and makes good information on the internet findable. The problem is, you have to know, or at least have an idea of what it is you are searching for. 
 
-The purpose of categorization is to make entries you might be interested in more easily discoverable, by throwing them into branches you already have an interest in. An excellent example of categorization is Amazon's "shop by department". It breaks every product on their website down into categories. A user like myself might just go to "Electronics & Computers" then click "Wearable technology" and discover products I never knew existed. After clicking this, you can break the department down into even narrower sub-categories. Why not do this with the internet's information too? If we value the internet so much, why shouldn't we pitch good information and sell it to internet users the same way a retail outlet would market its products to customers?
+The purpose of categorization is to make entries you might be interested in more easily discoverable, by throwing them into branches you already have an interest in. An excellent example of categorization is Amazon's "shop by department". It breaks every product on their website down into categories. A user like myself might just go to "Electronics & Computers" then see "Wearable technology" and discover products I wouldn't have seen otherwise. After clicking this, you can break the department down into even narrower sub-categories. Why not do this with the internet's information too? If we value the internet so much, why shouldn't we pitch good information and sell it to internet users the same way a retail outlet would market its products to customers?
 
 Categories will be hierarchical, meaning there will be top-level, mid-level (possibly multiple), and bottom-level categories. Categories are used to give users another way to browse, find, or discover entries. Let's say a user is looking to buy a new chainsaw as an example. It could be navigated to like this: 
 

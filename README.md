@@ -24,7 +24,8 @@ In additon to these reasons, there will be **no CEO's**, **no advertisements**, 
 
 Below is a sample of what a user's homepage might look like.
 
-![](https://cloud.githubusercontent.com/assets/11935672/9971273/32d426f4-5e20-11e5-8ec5-71ed6f5eb93f.png)
+
+![](https://cloud.githubusercontent.com/assets/11935672/10345112/e64f0746-6cec-11e5-86ba-231b8815e937.png)
 
 As you can see, there is also a "My Tasks" section. This section is for individual endeavors. Users can make any task they want, and can even share them to create a repository of tasks other users can choose from. Tasks may be in the form of a list or a timeline; may include goals, to-do lists, reminders, etc.
 

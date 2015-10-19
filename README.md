@@ -2,7 +2,9 @@
 
 A website built for everyone and by everyone. Locuscraft's aim is to be globally used as an open source, decentralized medium of information sharing and creation through individual and collaborative efforts, with the use of open source tools, a user-friendly interface, and data architecture centered around and voted on by its users.
 
-Everyone will have access to the same information - Locuscraft entries, which are similar to Wikis with increased functionality and more *kinds* of information. Users can add to entries, share them, edit them, create new ones, or just browse them. Locuscraft is much more than an encyclopedia though. Every Locuscraft entry can have its own:
+Locuscraft's purpose is to take human awareness to the MAX. Today, disinformation is rampant in the media and the news, but at the same time there is explosive growth in information sharing on the internet. I believe there is great untapped potential in the way and the extent to which we can share information and learn information. By information, I mean news, tutorials, reviews, polls, and education. We can take awareness to the max by bridging the gap between the source and consumer of this information. We can create a central, globally unified repository of information, that is not filtered through third parties, in order to create a reliable, universal, and truthful information hub for everyone in the world. This is the purpose of Locuscraft.
+
+Information on Locuscraft will come in the form of entries, which are similar to Wikis with increased functionality and more *kinds* of information. Each entry represents a topic, and every entry will house several tools/outlets for sharing all corners of information for that topic. The best part is, any user can add to entries, share them, edit them, create new ones, or browse them. Every Locuscraft entry has its own:
 
  * Posts (similar to Reddit posts)
  * Forums

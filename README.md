@@ -1,6 +1,6 @@
 # What is Locuscraft?
 
-A website built for everyone and by everyone. Locuscraft's aim is to be globally used as an open source, decentralized medium of information sharing and creation through individual and collaborative efforts, with the use of open source tools, a user-friendly interface, and data architecture centered around and voted on by its users.
+A website built for everyone and by everyone. Locuscraft's aim is to bridge the gap between information and people. Locuscraft aims to be globally used as an open source, decentralized medium of information sharing and creation through individual and collaborative efforts, with the use of open source tools, a user-friendly interface, and data architecture centered around and voted on by its users.
 
 Locuscraft's purpose is to take human awareness to the MAX. Today, disinformation is rampant in the media and the news, but at the same time there is explosive growth in information sharing on the internet. I believe there is great untapped potential in the way and the extent to which we can share information and learn information. By information, I mean news, tutorials, reviews, polls, and education. We can take awareness to the max by bridging the gap between the source and consumer of this information. We can create a central, globally unified repository of information, that is not filtered through third parties, in order to create a reliable, universal, and truthful information hub for everyone in the world. This is the purpose of Locuscraft.
 
@@ -16,7 +16,9 @@ Information on Locuscraft will come in the form of entries, which are similar to
 
 You may say, "oh it's just a mash-up of a bunch of things that already exist". Well you'd be right for the most part. So, why build it? 
 
-1. **Everyone will have control** over all of these things, as well as any future additions.
+As Steve Jobs said, we should take the best and spread it around "so that everybody grows up with better things".
+
+1. **Everyone will have control** over all of the content on Locuscraft.
 2. **Maximum organization and efficiency** in finding the information you want.
 3. **Global awareness** - since high quality, personalized information will be visible on everyones' homepage; since everyone will contribute information from all walks of life; and since there are no borders.
 4. **Global reviews** - every entry, and it's posts, tasks, comments, and guides can have a rating. The highly rated stuff will be highly visible while low ratings will be at the bottom. 

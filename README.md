@@ -2,27 +2,25 @@
 
 A website built for everyone and by everyone. Locuscraft's aim is to bridge the gap between information and people. Locuscraft aims to be globally used as an open source, decentralized medium of information sharing and creation through individual and collaborative efforts, with the use of open source tools, a user-friendly interface, and data architecture centered around and voted on by its users.
 
-Locuscraft's purpose is to take human awareness to the MAX. Today, disinformation is rampant in the media and the news, but at the same time there is explosive growth in information sharing on the internet. I believe there is great untapped potential in the way and the extent to which we can share information and learn information. By information, I mean news, tutorials, reviews, polls, and education. We can take awareness to the max by bridging the gap between the source and consumer of this information. We can create a central, globally unified repository of information, that is not filtered through third parties, in order to create a reliable, universal, and truthful information hub for everyone in the world. This is the purpose of Locuscraft.
+Locuscraft's purpose is to maximize human awareness. Today, disinformation is rampant in the media, but at the same time there is explosive growth in information sharing on the internet. I believe there is great untapped potential in the way and the extent to which we can share information and learn information on the internet. We can take awareness to the max by bridging the gap between the source of and consumer of information. We can create a central, globally unified repository of information, that is not filtered through third parties, in order to create a reliable, universal, and truthful information hub for everyone in the world.
 
 Information on Locuscraft will come in the form of entries, which are similar to Wikis with increased functionality and more *kinds* of information. Each entry represents a topic, and every entry will house several tools/outlets for sharing all corners of information for that topic. The best part is, any user can add to entries, share them, edit them, create new ones, or browse them. Every Locuscraft entry has its own:
 
  * Posts (similar to Reddit posts)
  * Forums
- * Something never done before - community tasks
+ * Community tasks (more on this later)
  * The best sources relating to the entry
  * Guides
- * Reviews
- * and more (read on)
+ * Reviews/Ratings
+ * and more
 
-You may say, "oh it's just a mash-up of a bunch of things that already exist". Well you'd be right for the most part. So, why build it? 
-
-As Steve Jobs said, we should take the best and spread it around "so that everybody grows up with better things".
+Why should you care about this idea? As Steve Jobs said, we should take the best and spread it around "so that everybody grows up with better things".
 
 1. **Everyone will have control** over all of the content on Locuscraft.
 2. **Maximum organization and efficiency** in finding the information you want.
-3. **Global awareness** - since high quality, personalized information will be visible on everyones' homepage; since everyone will contribute information from all walks of life; and since there are no borders.
+3. **Global awareness** - since high quality, personalized information will be visible on everyones' homepage; since everyone will contribute information from all walks of life; and since there will be no borders.
 4. **Global reviews** - every entry, and it's posts, tasks, comments, and guides can have a rating. The highly rated stuff will be highly visible while low ratings will be at the bottom. 
-5. **Community tasks don't exist anywhere else.** These will be the driving force for the creation of new information on the website among other things. Read about them below.
+5. **Community tasks** will be the driving force for the creation of new information on the website among other things. Read about them below.
 
 In additon to these reasons, there will be **no CEO's**, **no advertisements**, **no profiteering**, and **no borders**. The **privacy policy**, too, will be created by the users and centered around the user's needs.
 
@@ -33,45 +31,34 @@ Below is a sample of what a user's homepage might look like.
 
 As you can see, there is also a "My Tasks" section. This section is for individual endeavors. Users can make any task they want, and can even share them to create a repository of tasks other users can choose from. Tasks may be in the form of a list or a timeline; may include goals, to-do lists, reminders, etc.
 
-Locuscraft isn't just going to be another website. We aim to bring out the true potential of the internet - a true website of the internet users, by the internet users, and for the internet users. 
-
 # Why Locuscraft?
 
 Compare the internet with the human brain for a moment. Each human on the internet is like one neuron in a brain. Like the brain, the internet is a vast network connecting each neuron (human) to each other. Both the internet and the human brain have memories and emotions. The human brain is actually more sophisticated though, with more than simple memories and emotions.
 
 Humans have this part called the frontal lobe which controls the executive functions of the brain, the part of the brain responsible for planning, decision-making, intellect, behavior, attention, abstract thinking, coordinated movements, and personality. Besides the small amount of scattered working memory that websites like Reddit have given the internet, the internet's frontal lobe is virtually non-existant. Humans on the internet cannot make decisions on a global level, we cannot globally pay attention to important things happening in the world, and we cannot coordinate our actions. In other words, the internet doesn't really work as a singular organ, and instead still works at the cellular level where every cell is fighting for its own survival.
 
-John Lennon sang it, monks have been saying it for millenia - **we must be as one**.  If you believe there can't be diversity without division, you are wrong. Division leads to censorship and silencing competition - or sometimes the complete eradication of an ideal, or the humans that disagree with you. As one, we could have true creative freedom. So my argument is that we'd be more diverse as one cooperating people.  We are one species on one tiny planet in one massive universe. We have bigger problems! Thankfully, the greatest human invention ever created for sharing ideals and uniting humans has just been created - the internet. 
+John Lennon sang it, monks have been saying it for millenia - **we must be as one**. We are one species on one tiny planet in one massive universe. We have bigger problems! Thankfully, the greatest human invention ever created for sharing ideals and uniting humans has just been created - the internet. 
 
-Going back to the internet-brain analogy, **the internet (humanity) needs a singular unified thought process, an attention span, a higher level of awareness, and the ability to make decisions (the correct ones) at a global level.**
+**The internet (humanity) needs a singular unified thought process, an attention span, a higher level of awareness, and the ability to make decisions (the correct ones) at a global level.**
 
-Locuscraft can provide this for the internet.
-
-#Where the Project is at
-
-Other than tons of planning, outlining, and making this readme, here's what I've done so far:
-
-* **Reserved the domain space [locuscraft.com](http://www.locuscraft.com), .net, and .org.** Locuscraft.net and .org just point to .com. 
-* **Built a basic homepage describing the website.** It's really just a placeholder for now. You can make an account and login but can't do anything yet other than log back out. 
-* **I'm paying for hosting month-by-month with an Arvixe shared server**, which also includes cPanel and unlimited mySQL databases. Once we get a decent user base and acquire dontations or funding, I would like to upgrade the server to a dedicated server so we can handle a higher load of traffic. 
-* **Designed the logo, the symbol for community points, and came up with a motto.** I really believe in these but I'm open to criticism.
+This is what the Locuscraft project aims to provide for the internet and the world.
 
 Also, if anyone is interested I have answered a short [site planning questionaire](https://github.com/Zachcraft/Locuscraft/issues/2). It seemed a bit redundant so I decided to link it here, rather than write it up in this readme.
 
 ##Locuscraft To-Do List
 
-* Make this list more detailed (that's my job).
-* **The entire interface for the website**, front-end and back-end. The question is how should it be built? Django 1.9 was what I was going to use. The interface's details are outlined below, under "Locuscraft Plan".
+* Make this list more detailed.
+* **The interface for the website**, front-end and back-end. The question is how should it be built? I was thinking about using Django for this. My ideas for the details of the interface are outlined below, under "Locuscraft Plan".
   * Develop the basic structure of subject entry pages. The initial framework for entries can come from the "Wiki".
   * Create a few starter subject pages to be used for the User Homepage.
   * Develop the User Homepage including user's post feed, community task feed, My Tasks, and user sidebar.
   * Create the default categories all new accounts will have in their interests.
 * **A Privacy Policy.** This is important and I know nothing about writing a privacy policy.
-* **Spreading the word.** This is what I'm working on now. If you know any online communities or other outlets we could share this with, please do so or let me know!
+* **Spread the word.** This is what I'm working on now. If you know any online communities or other outlets we could share this with, please do so or let me know!
 
 # Locuscraft Site Map
 
-This is a basic navigational map of the website for your reference. It is not comprehensive and could be changed at anytime.
+This is a basic navigational map of the website for your reference. It is not comprehensive and may change.
 
 ![](https://cloud.githubusercontent.com/assets/11935672/9947312/d9994216-5d5e-11e5-92eb-5a57ff8cbe41.png)
 
